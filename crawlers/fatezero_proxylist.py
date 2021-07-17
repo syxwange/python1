@@ -1,5 +1,5 @@
-from proxypool.schemas.proxy import Proxy
-from proxypool.crawlers.base import BaseCrawler
+
+from baseCrawler import BaseCrawler
 import re
 import json
 BASE_URL = 'http://proxylist.fatezero.org/proxy.list'
@@ -22,10 +22,10 @@ class FatezeroCrawler(BaseCrawler):
             if(addr):
                 ip_address = json.loads(addr)
                 host = ip_address['host']
-                port = ip_address['port']
-                yield Proxy(host=host, port=port)
+                port = ip_address['port']                
+                yield host+':'+str(port)
 
 if __name__ == '__main__':
     crawler = FatezeroCrawler()
-    for proxy in crawler.crawl():
-        print(proxy)
+    aaa = list(crawler.crawl())
+    print(len(aaa),aaa[0])

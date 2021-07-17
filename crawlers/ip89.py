@@ -1,5 +1,5 @@
-from proxypool.schemas.proxy import Proxy
-from proxypool.crawlers.base import BaseCrawler
+
+from baseCrawler import BaseCrawler
 import re
 
 MAX_NUM = 9999
@@ -8,7 +8,7 @@ BASE_URL = 'http://api.89ip.cn/tqdl.html?api=1&num={MAX_NUM}&port=&address=&isp=
 
 class Ip89Crawler(BaseCrawler):
     """
-    89ip crawler, http://api.89ip.cn
+    89ip crawler, http://api.89ip.cn  打不开了
     """
     urls = [BASE_URL]
     
@@ -24,7 +24,7 @@ class Ip89Crawler(BaseCrawler):
             if(len(addr_split) == 2):
                 host = addr_split[0]
                 port = addr_split[1]
-                yield Proxy(host=host, port=port)
+                yield host+':'+port
 
 
 if __name__ == '__main__':

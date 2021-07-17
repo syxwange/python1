@@ -1,5 +1,5 @@
-from proxypool.schemas.proxy import Proxy
-from proxypool.crawlers.base import BaseCrawler
+
+from baseCrawler import BaseCrawler
 from pyquery import PyQuery as pq
 
 BaseUrl = 'http://www.taiyanghttp.com/free/page{num}'
@@ -22,7 +22,7 @@ class TaiyangdailiCrawler(BaseCrawler):
         for tr in trs:
             host = tr.find('div:nth-child(1)').text()
             port = tr.find('div:nth-child(2)').text()
-            yield Proxy(host=host, port=port)
+            yield host+':'+str(port)
 
 
 if __name__ == '__main__':

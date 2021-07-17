@@ -1,7 +1,6 @@
-from proxypool.schemas.proxy import Proxy
-from proxypool.crawlers.base import BaseCrawler
+
+from baseCrawler import BaseCrawler
 import re
-from pyquery import PyQuery as pq
 import time
 BASE_URL = 'https://ip.ihuan.me/today/{path}.html'
 
@@ -26,7 +25,8 @@ class IhuanCrawler(BaseCrawler):
             if(len(addr_split) == 2):
                 host = addr_split[0]
                 port = addr_split[1]
-                yield Proxy(host=host, port=port)
+                yield  addr
+
 
 
 if __name__ == '__main__':

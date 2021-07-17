@@ -1,5 +1,5 @@
-from proxypool.crawlers.base import BaseCrawler
-from proxypool.schemas.proxy import Proxy
+from baseCrawler import BaseCrawler
+
 import re
 
 
@@ -7,7 +7,7 @@ BASE_URL = 'http://www.iphai.com/'
 
 class IPHaiCrawler(BaseCrawler):
     """
-    iphai crawler, http://www.iphai.com/
+    iphai crawler, http://www.iphai.com/打不开了
     """
     urls = [BASE_URL]
     ignore = True
@@ -25,7 +25,7 @@ class IPHaiCrawler(BaseCrawler):
             find_port = re.compile('<td>\s+(\d+)\s+</td>', re.S)
             re_port = find_port.findall(trs[s])
             for address, port in zip(re_ip_address, re_port):
-                proxy = Proxy(host=address.strip(), port=int(port.strip()))
+                proxy = address.strip()+':'+(port.strip())
                 yield proxy
 
 if __name__ == '__main__':

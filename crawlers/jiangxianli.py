@@ -1,5 +1,5 @@
-from proxypool.schemas.proxy import Proxy
-from proxypool.crawlers.base import BaseCrawler
+
+from baseCrawler import BaseCrawler
 import re
 import json
 BASE_URL = 'https://ip.jiangxianli.com/api/proxy_ips?page={page}'
@@ -26,7 +26,7 @@ class JiangxianliCrawler(BaseCrawler):
             if(ip_address):
                 host = ip_address['ip']
                 port = ip_address['port']
-                yield Proxy(host=host, port=port)
+                yield host+':'+str(port)
 
 
 if __name__ == '__main__':

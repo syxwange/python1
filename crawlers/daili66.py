@@ -1,6 +1,5 @@
 from pyquery import PyQuery as pq
-from proxypool.schemas.proxy import Proxy
-from proxypool.crawlers.base import BaseCrawler
+from baseCrawler import BaseCrawler
 
 
 BASE_URL = 'http://www.66ip.cn/{page}.html'
@@ -22,8 +21,8 @@ class Daili66Crawler(BaseCrawler):
         trs = doc('.containerbox table tr:gt(0)').items()
         for tr in trs:
             host = tr.find('td:nth-child(1)').text()
-            port = int(tr.find('td:nth-child(2)').text())
-            yield Proxy(host=host, port=port)
+            port = tr.find('td:nth-child(2)').text()
+            yield host+':'+port
 
 
 if __name__ == '__main__':

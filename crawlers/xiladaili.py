@@ -1,5 +1,5 @@
-from proxypool.schemas.proxy import Proxy
-from proxypool.crawlers.base import BaseCrawler
+
+from baseCrawler import BaseCrawler
 from lxml import etree
 
 BASE_URL = "http://www.xiladaili.com/"
@@ -23,7 +23,7 @@ class XiladailiCrawler(BaseCrawler):
         for ip_port in ip_ports:
             host = ip_port.partition(":")[0]
             port = ip_port.partition(":")[2]
-            yield Proxy(host=host, port=port)
+            yield host+':'+str(port)
 
 
 if __name__ == '__main__':
