@@ -98,12 +98,12 @@ class RedisClient(object):
         """
         return self.db.zcard(REDIS_KEY)
 
-    def count1(self):
+    def getValidproxies(self):
         """
         get count of proxies
         :return: count, int
         """
-        return 22
+        return   self.db.zrangebyscore(REDIS_KEY, PROXY_SCORE_MAX , PROXY_SCORE_MAX)
 
     def all(self):
         """
@@ -111,3 +111,13 @@ class RedisClient(object):
         :return: list of proxies
         """
         return self.db.zrangebyscore(REDIS_KEY, PROXY_SCORE_MIN, PROXY_SCORE_MAX)
+
+    def batch(self, cursor, count):
+        """
+        get batch of proxies
+        :param cursor: scan cursor
+        :param count: scan count
+        :return: list of proxies
+        """
+        return self.db.zscan(REDIS_KEY, cursor, count=count)
+     
