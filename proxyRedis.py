@@ -4,9 +4,9 @@ from loguru import logger
 
 REDIS_CLIENT_VERSION = redis.__version__
 IS_REDIS_VERSION_2 = REDIS_CLIENT_VERSION.startswith('2.')
-PROXY_SCORE_MAX = 100
+PROXY_SCORE_MAX = 5
 PROXY_SCORE_MIN = 0
-PROXY_SCORE_INIT = 10
+PROXY_SCORE_INIT = 3
 REDIS_KEY = 'proxies'
 
 
@@ -77,7 +77,7 @@ class RedisClient(object):
         """
         self.db.zincrby(REDIS_KEY, -1, proxy)
         score = self.db.zscore(REDIS_KEY, proxy)
-        logger.info(f'{proxy} score decrease 1, current {score}')
+        #logger.info(f'{proxy} score decrease 1, current {score}')
         if score <= PROXY_SCORE_MIN:
             logger.info(f'{proxy} current score {score}, remove')
             self.db.zrem(REDIS_KEY, proxy)

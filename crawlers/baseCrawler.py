@@ -29,11 +29,11 @@ class BaseCrawler(object):
         crawl main method
         """
         for url in self.urls:
-            logger.info(f'fetching {url}')
+            logger.debug(f'fetching {url}')
             html = self.fetch(url)
             time.sleep(.5)
             for proxy in self.parse(html):
-                logger.info(f'fetched proxy {proxy} from {url}')
+                #logger.debug(f'fetched proxy {proxy} from {url}')
                 yield proxy
 
 if __name__=='__main__':

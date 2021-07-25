@@ -1,0 +1,1690 @@
+2021-07-20 10:43:00.833 | INFO     | __main__:<module>:74 - 获取代理开始
+2021-07-20 10:43:00.837 | INFO     | getter:run:36 - crawler <daili66.Daili66Crawler object at 0x7f41270b7f10> to get proxy
+2021-07-20 10:43:00.838 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/1.html
+2021-07-20 10:43:01.431 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/2.html
+2021-07-20 10:43:02.053 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/3.html
+2021-07-20 10:43:02.647 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/4.html
+2021-07-20 10:43:03.237 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/5.html
+2021-07-20 10:43:04.718 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/6.html
+2021-07-20 10:43:05.304 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/7.html
+2021-07-20 10:43:05.909 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/8.html
+2021-07-20 10:43:06.538 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/9.html
+2021-07-20 10:43:07.139 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/10.html
+2021-07-20 10:43:07.725 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/11.html
+2021-07-20 10:43:08.336 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/12.html
+2021-07-20 10:43:08.938 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/13.html
+2021-07-20 10:43:09.560 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/14.html
+2021-07-20 10:43:10.130 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/15.html
+2021-07-20 10:43:10.794 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/16.html
+2021-07-20 10:43:11.396 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/17.html
+2021-07-20 10:43:12.009 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/18.html
+2021-07-20 10:43:12.611 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/19.html
+2021-07-20 10:43:13.268 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/20.html
+2021-07-20 10:43:13.854 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/21.html
+2021-07-20 10:43:14.448 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/22.html
+2021-07-20 10:43:15.042 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/23.html
+2021-07-20 10:43:15.652 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/24.html
+2021-07-20 10:43:16.274 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/25.html
+2021-07-20 10:43:16.899 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/26.html
+2021-07-20 10:43:17.552 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/27.html
+2021-07-20 10:43:18.162 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/28.html
+2021-07-20 10:43:18.783 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/29.html
+2021-07-20 10:43:19.376 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/30.html
+2021-07-20 10:43:19.969 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/31.html
+2021-07-20 10:43:20.566 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/32.html
+2021-07-20 10:43:21.170 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/33.html
+2021-07-20 10:43:21.797 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/34.html
+2021-07-20 10:43:22.382 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/35.html
+2021-07-20 10:43:23.000 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/36.html
+2021-07-20 10:43:23.577 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/37.html
+2021-07-20 10:43:24.174 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/38.html
+2021-07-20 10:43:24.784 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/39.html
+2021-07-20 10:43:25.380 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/40.html
+2021-07-20 10:43:25.981 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/41.html
+2021-07-20 10:43:26.583 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/42.html
+2021-07-20 10:43:27.170 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/43.html
+2021-07-20 10:43:27.778 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/44.html
+2021-07-20 10:43:28.360 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/45.html
+2021-07-20 10:43:28.948 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/46.html
+2021-07-20 10:43:29.557 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/47.html
+2021-07-20 10:43:30.144 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/48.html
+2021-07-20 10:43:30.770 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/49.html
+2021-07-20 10:43:31.342 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.66ip.cn/50.html
+2021-07-20 10:43:31.930 | INFO     | getter:run:36 - crawler <fatezero_proxylist.FatezeroCrawler object at 0x7f41270b7eb0> to get proxy
+2021-07-20 10:43:31.930 | DEBUG    | baseCrawler:crawl:32 - fetching http://proxylist.fatezero.org/proxy.list
+2021-07-20 10:44:02.057 | INFO     | getter:run:36 - crawler <ihuan.IhuanCrawler object at 0x7f41270b7f70> to get proxy
+2021-07-20 10:44:02.057 | DEBUG    | baseCrawler:crawl:32 - fetching https://ip.ihuan.me/today/2021/07/20/10.html
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'ip.ihuan.me'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:44:03.327 | INFO     | getter:run:36 - crawler <ip3366.IP3366Crawler object at 0x7f41270b7f40> to get proxy
+2021-07-20 10:44:03.328 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.ip3366.net/free/?stype=1&page=1
+2021-07-20 10:44:03.968 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.ip3366.net/free/?stype=1&page=2
+2021-07-20 10:44:04.583 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.ip3366.net/free/?stype=1&page=3
+2021-07-20 10:44:05.434 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.ip3366.net/free/?stype=1&page=4
+2021-07-20 10:44:06.087 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.ip3366.net/free/?stype=1&page=5
+2021-07-20 10:44:06.676 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.ip3366.net/free/?stype=1&page=6
+2021-07-20 10:44:07.312 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.ip3366.net/free/?stype=1&page=7
+2021-07-20 10:44:07.976 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.ip3366.net/free/?stype=2&page=1
+2021-07-20 10:44:08.619 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.ip3366.net/free/?stype=2&page=2
+2021-07-20 10:44:09.235 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.ip3366.net/free/?stype=2&page=3
+2021-07-20 10:44:09.863 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.ip3366.net/free/?stype=2&page=4
+2021-07-20 10:44:10.485 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.ip3366.net/free/?stype=2&page=5
+2021-07-20 10:44:13.947 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.ip3366.net/free/?stype=2&page=6
+2021-07-20 10:44:14.575 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.ip3366.net/free/?stype=2&page=7
+2021-07-20 10:44:15.202 | INFO     | getter:run:36 - crawler <ip89.Ip89Crawler object at 0x7f41270b7fa0> to get proxy
+2021-07-20 10:44:15.202 | DEBUG    | baseCrawler:crawl:32 - fetching http://api.89ip.cn/tqdl.html?api=1&num=9999&port=&address=&isp=
+2021-07-20 10:44:16.736 | INFO     | getter:run:36 - crawler <jiangxianli.JiangxianliCrawler object at 0x7f41270b7fd0> to get proxy
+2021-07-20 10:44:16.736 | DEBUG    | baseCrawler:crawl:32 - fetching https://ip.jiangxianli.com/api/proxy_ips?page=1
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'ip.jiangxianli.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:44:17.460 | DEBUG    | baseCrawler:crawl:32 - fetching https://ip.jiangxianli.com/api/proxy_ips?page=2
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'ip.jiangxianli.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:44:18.224 | DEBUG    | baseCrawler:crawl:32 - fetching https://ip.jiangxianli.com/api/proxy_ips?page=3
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'ip.jiangxianli.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:44:18.941 | DEBUG    | baseCrawler:crawl:32 - fetching https://ip.jiangxianli.com/api/proxy_ips?page=4
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'ip.jiangxianli.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:44:19.700 | DEBUG    | baseCrawler:crawl:32 - fetching https://ip.jiangxianli.com/api/proxy_ips?page=5
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'ip.jiangxianli.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:44:20.614 | DEBUG    | baseCrawler:crawl:32 - fetching https://ip.jiangxianli.com/api/proxy_ips?page=6
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'ip.jiangxianli.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:44:21.416 | DEBUG    | baseCrawler:crawl:32 - fetching https://ip.jiangxianli.com/api/proxy_ips?page=7
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'ip.jiangxianli.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:44:22.292 | DEBUG    | baseCrawler:crawl:32 - fetching https://ip.jiangxianli.com/api/proxy_ips?page=8
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'ip.jiangxianli.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:44:23.029 | DEBUG    | baseCrawler:crawl:32 - fetching https://ip.jiangxianli.com/api/proxy_ips?page=9
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'ip.jiangxianli.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:44:23.934 | DEBUG    | baseCrawler:crawl:32 - fetching https://ip.jiangxianli.com/api/proxy_ips?page=10
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'ip.jiangxianli.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:44:24.689 | INFO     | getter:run:36 - crawler <kuaidaili.KuaidailiCrawler object at 0x7f41270b7e50> to get proxy
+2021-07-20 10:44:24.690 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/1/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:44:25.408 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/2/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:44:28.278 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/3/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:44:31.111 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/4/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:44:33.956 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/5/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:44:36.845 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/6/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:44:39.691 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/7/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:44:42.547 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/8/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:44:45.408 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/9/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:44:48.231 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/10/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:44:51.092 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/11/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:44:54.257 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/12/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:44:57.141 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/13/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:44:59.995 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/14/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:45:02.863 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/15/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:45:05.732 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/16/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:45:08.585 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/17/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:45:11.434 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/18/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:45:13.593 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/19/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:45:16.467 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/20/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:45:19.335 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/21/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:45:22.182 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/22/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:45:25.045 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/23/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:45:27.920 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/24/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:45:30.798 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/25/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:45:33.683 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/26/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:45:36.562 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/27/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:45:39.425 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/28/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:45:42.248 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/29/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:45:45.132 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/30/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:45:47.963 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/31/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:45:50.880 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/32/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:45:53.734 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/33/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:45:56.588 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/34/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:45:59.475 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/35/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:46:02.310 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/36/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:46:05.163 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/37/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:46:08.024 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/38/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:46:10.921 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/39/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:46:13.773 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/40/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:46:16.638 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/41/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:46:19.496 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/42/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:46:22.395 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/43/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:46:25.271 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/44/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:46:28.136 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/45/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:46:31.012 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/46/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:46:33.913 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/47/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:46:36.762 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/48/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:46:39.615 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/49/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:46:42.451 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/50/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:46:45.325 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/51/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:46:48.200 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/52/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:46:51.050 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/53/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:46:53.917 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/54/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:46:56.784 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/55/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:46:59.632 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/56/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:47:02.588 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/57/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:47:05.436 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/58/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:47:08.327 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/59/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:47:11.183 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/60/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:47:14.076 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/61/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:47:16.942 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/62/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:47:19.789 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/63/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:47:22.634 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/64/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:47:25.587 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/65/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:47:28.423 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/66/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:47:31.250 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/67/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:47:34.119 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/68/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:47:36.987 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/69/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:47:39.852 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/70/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:47:42.727 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/71/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:47:45.746 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/72/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:47:48.603 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/73/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:47:51.501 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/74/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:47:54.389 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/75/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:47:57.275 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/76/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:48:00.149 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/77/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:48:03.056 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/78/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:48:05.911 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/79/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:48:08.783 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/80/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:48:11.628 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/81/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:48:14.665 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/82/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:48:17.509 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/83/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:48:20.366 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/84/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:48:23.253 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/85/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:48:26.135 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/86/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:48:29.014 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/87/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:48:31.899 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/88/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:48:34.769 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/89/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:48:37.649 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/90/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:48:40.896 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/91/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:48:43.708 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/92/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:48:46.565 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/93/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:48:49.757 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/94/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:48:52.605 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/95/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:48:55.636 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/96/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:48:58.478 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/97/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:49:01.331 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/98/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:49:04.324 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/99/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:49:07.220 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/100/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:49:10.122 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/101/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:49:12.993 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/102/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:49:15.862 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/103/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:49:18.714 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/104/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:49:21.794 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/105/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:49:24.646 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/106/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:49:27.512 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/107/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:49:30.335 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/108/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:49:33.183 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/109/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:49:36.011 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/110/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:49:38.864 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/111/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:49:41.731 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/112/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:49:44.592 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/113/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:49:47.432 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/114/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:49:50.275 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/115/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:49:53.165 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/116/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:49:56.287 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/117/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:49:59.154 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/118/
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/usr/local/lib/python3.8/site-packages/urllib3/connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.kuaidaili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2021-07-20 10:50:02.033 | DEBUG    | baseCrawler:crawl:32 - fetching https://www.kuaidaili.com/free/inha/119/
+2021-07-20 10:50:36.074 | ERROR    | getter:run:37 - An error has been caught in function 'run', process 'MainProcess' (41878), thread 'MainThread' (139917938680064):
+Traceback (most recent call last):
+
+  File "scheduler.py", line 76, in <module>
+    gett.run()
+    │    └ <function Getter.run at 0x7f41274821f0>
+    └ <getter.Getter object at 0x7f4127481460>
+
+> File "/root/code/python1/getter.py", line 37, in run
+    for proxy in crawler.crawl():
+        │        │       └ <function BaseCrawler.crawl at 0x7f412808f670>
+        │        └ <kuaidaili.KuaidailiCrawler object at 0x7f41270b7e50>
+        └ '113.124.95.65:9999'
+
+  File "/root/code/python1/crawlers/baseCrawler.py", line 33, in crawl
+    html = self.fetch(url)
+           │    │     └ 'https://www.kuaidaili.com/free/inha/119/'
+           │    └ <function BaseCrawler.fetch at 0x7f412808f5e0>
+           └ <kuaidaili.KuaidailiCrawler object at 0x7f41270b7e50>
+
+  File "/usr/local/lib/python3.8/site-packages/retrying.py", line 49, in wrapped_f
+    return Retrying(*dargs, **dkw).call(f, *args, **kw)
+           │         │        │         │   │       └ {}
+           │         │        │         │   └ (<kuaidaili.KuaidailiCrawler object at 0x7f41270b7e50>, 'https://www.kuaidaili.com/free/inha/119/')
+           │         │        │         └ <function BaseCrawler.fetch at 0x7f412808f550>
+           │         │        └ {'stop_max_attempt_number': 3, 'retry_on_result': <function BaseCrawler.<lambda> at 0x7f412808f430>, 'wait_fixed': 2000}
+           │         └ ()
+           └ <class 'retrying.Retrying'>
+
+  File "/usr/local/lib/python3.8/site-packages/retrying.py", line 214, in call
+    raise RetryError(attempt)
+          │          └ Attempts: 3, Value: None
+          └ <class 'retrying.RetryError'>
+
+retrying.RetryError: RetryError[Attempts: 3, Value: None]
+2021-07-20 10:50:36.085 | INFO     | getter:run:36 - crawler <taiyangdaili.TaiyangdailiCrawler object at 0x7f41270b7a00> to get proxy
+2021-07-20 10:50:36.086 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.taiyanghttp.com/free/page1
+2021-07-20 10:50:36.639 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.taiyanghttp.com/free/page2
+2021-07-20 10:50:37.194 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.taiyanghttp.com/free/page3
+2021-07-20 10:50:37.742 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.taiyanghttp.com/free/page4
+2021-07-20 10:50:38.295 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.taiyanghttp.com/free/page5
+2021-07-20 10:50:38.845 | INFO     | getter:run:36 - crawler <xiladaili.XiladailiCrawler object at 0x7f41270b77f0> to get proxy
+2021-07-20 10:50:38.846 | DEBUG    | baseCrawler:crawl:32 - fetching http://www.xiladaili.com/
+2021-07-20 10:50:39.524 | INFO     | __main__:<module>:77 - 测试代理开始
+2021-07-20 10:50:40.403 | INFO     | tester:run:111 - stating tester...
+2021-07-20 10:50:40.404 | DEBUG    | tester:run:113 - 12156 proxies to test
+2021-07-20 10:50:40.404 | DEBUG    | tester:run:116 - testing proxies use cursor 0, count 20
+2021-07-20 10:50:45.702 | DEBUG    | tester:run:116 - testing proxies use cursor 5632, count 20
+2021-07-20 10:50:51.701 | DEBUG    | tester:run:116 - testing proxies use cursor 9984, count 20
+2021-07-20 10:50:57.707 | DEBUG    | tester:run:116 - testing proxies use cursor 5760, count 20
+2021-07-20 10:50:58.776 | INFO     | proxyRedis:max:91 - 113.100.209.189:3128 is valid, set to 5
+2021-07-20 10:50:58.777 | DEBUG    | tester:testIP:96 - proxy 113.100.209.189:3128 is valid, set max score
+2021-07-20 10:51:03.705 | DEBUG    | tester:run:116 - testing proxies use cursor 11136, count 20
+2021-07-20 10:51:09.700 | DEBUG    | tester:run:116 - testing proxies use cursor 2624, count 20
+2021-07-20 10:51:15.701 | DEBUG    | tester:run:116 - testing proxies use cursor 15680, count 20
+2021-07-20 10:51:21.705 | DEBUG    | tester:run:116 - testing proxies use cursor 1216, count 20
+2021-07-20 10:51:27.702 | DEBUG    | tester:run:116 - testing proxies use cursor 4544, count 20
+2021-07-20 10:51:33.703 | DEBUG    | tester:run:116 - testing proxies use cursor 4128, count 20
+2021-07-20 10:51:39.703 | DEBUG    | tester:run:116 - testing proxies use cursor 3616, count 20
+2021-07-20 10:51:45.705 | DEBUG    | tester:run:116 - testing proxies use cursor 4896, count 20
+2021-07-20 10:51:51.705 | DEBUG    | tester:run:116 - testing proxies use cursor 14496, count 20
+2021-07-20 10:51:57.707 | DEBUG    | tester:run:116 - testing proxies use cursor 3488, count 20
+2021-07-20 10:52:03.704 | DEBUG    | tester:run:116 - testing proxies use cursor 16288, count 20
+2021-07-20 10:52:05.611 | INFO     | proxyRedis:max:91 - 3.108.176.244:80 is valid, set to 5
+2021-07-20 10:52:05.612 | DEBUG    | tester:testIP:96 - proxy 3.108.176.244:80 is valid, set max score
+2021-07-20 10:52:09.703 | DEBUG    | tester:run:116 - testing proxies use cursor 3680, count 20
+2021-07-20 10:52:15.704 | DEBUG    | tester:run:116 - testing proxies use cursor 864, count 20
+2021-07-20 10:52:21.704 | DEBUG    | tester:run:116 - testing proxies use cursor 5344, count 20
+Task exception was never retrieved
+future: <Task finished name='Task-657' coro=<Tester.testIP() done, defined at /root/code/python1/tester.py:77> exception=ClientResponseError(RequestInfo(url=URL('https://httpbin.org/ip'), method='CONNECT', headers=<CIMultiDictProxy('Host': 'httpbin.org', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'User-Agent': 'Python/3.8 aiohttp/3.7.4.post0')>, real_url=URL('http://223.16.233.22:8080')), (), status=400, message='invalid constant string')>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 890, in start
+    message, payload = await self._protocol.read()  # type: ignore
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/streams.py", line 604, in read
+    await self._waiter
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 213, in data_received
+    messages, upgraded, tail = self._parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadHttpMessage: 400, message='invalid constant string'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/root/code/python1/tester.py", line 89, in testIP
+    async with session.get(IP_URL, proxy=f'http://{proxy}', timeout=TEST_TIMEOUT) as response:
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client.py", line 520, in _request
+    conn = await self._connector.connect(
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 535, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 890, in _create_connection
+    _, proto = await self._create_proxy_connection(req, traces, timeout)
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 1111, in _create_proxy_connection
+    resp = await proxy_resp.start(conn)
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 892, in start
+    raise ClientResponseError(
+aiohttp.client_exceptions.ClientResponseError: 400, message='invalid constant string', url=URL('http://223.16.233.22:8080')
+2021-07-20 10:52:27.707 | DEBUG    | tester:run:116 - testing proxies use cursor 992, count 20
+2021-07-20 10:52:33.705 | DEBUG    | tester:run:116 - testing proxies use cursor 1040, count 20
+2021-07-20 10:52:39.702 | DEBUG    | tester:run:116 - testing proxies use cursor 7696, count 20
+2021-07-20 10:52:45.709 | DEBUG    | tester:run:116 - testing proxies use cursor 14480, count 20
+2021-07-20 10:52:51.707 | DEBUG    | tester:run:116 - testing proxies use cursor 13712, count 20
+2021-07-20 10:52:52.874 | INFO     | proxyRedis:max:91 - 173.82.252.145:3129 is valid, set to 5
+2021-07-20 10:52:52.875 | DEBUG    | tester:testIP:96 - proxy 173.82.252.145:3129 is valid, set max score
+2021-07-20 10:52:57.701 | DEBUG    | tester:run:116 - testing proxies use cursor 14416, count 20
+2021-07-20 10:53:03.704 | DEBUG    | tester:run:116 - testing proxies use cursor 6736, count 20
+2021-07-20 10:53:09.704 | DEBUG    | tester:run:116 - testing proxies use cursor 2896, count 20
+2021-07-20 10:53:15.707 | DEBUG    | tester:run:116 - testing proxies use cursor 3280, count 20
+2021-07-20 10:53:21.705 | DEBUG    | tester:run:116 - testing proxies use cursor 16080, count 20
+2021-07-20 10:53:27.702 | DEBUG    | tester:run:116 - testing proxies use cursor 7120, count 20
+2021-07-20 10:53:33.705 | DEBUG    | tester:run:116 - testing proxies use cursor 560, count 20
+2021-07-20 10:53:39.706 | DEBUG    | tester:run:116 - testing proxies use cursor 5424, count 20
+2021-07-20 10:53:45.706 | DEBUG    | tester:run:116 - testing proxies use cursor 2224, count 20
+2021-07-20 10:53:51.702 | DEBUG    | tester:run:116 - testing proxies use cursor 14768, count 20
+2021-07-20 10:53:54.056 | INFO     | proxyRedis:max:91 - 169.57.157.148:80 is valid, set to 5
+2021-07-20 10:53:54.057 | DEBUG    | tester:testIP:96 - proxy 169.57.157.148:80 is valid, set max score
+2021-07-20 10:53:57.702 | DEBUG    | tester:run:116 - testing proxies use cursor 14448, count 20
+2021-07-20 10:54:01.021 | INFO     | proxyRedis:max:91 - 144.217.101.245:3129 is valid, set to 5
+2021-07-20 10:54:01.022 | DEBUG    | tester:testIP:96 - proxy 144.217.101.245:3129 is valid, set max score
+2021-07-20 10:54:03.703 | DEBUG    | tester:run:116 - testing proxies use cursor 13936, count 20
+2021-07-20 10:54:09.706 | DEBUG    | tester:run:116 - testing proxies use cursor 12144, count 20
+2021-07-20 10:54:12.085 | INFO     | proxyRedis:max:91 - 212.92.204.54:80 is valid, set to 5
+2021-07-20 10:54:12.086 | DEBUG    | tester:testIP:96 - proxy 212.92.204.54:80 is valid, set max score
+2021-07-20 10:54:15.700 | DEBUG    | tester:run:116 - testing proxies use cursor 4848, count 20
+2021-07-20 10:54:17.300 | INFO     | proxyRedis:max:91 - 212.103.63.13:3128 is valid, set to 5
+2021-07-20 10:54:17.301 | DEBUG    | tester:testIP:96 - proxy 212.103.63.13:3128 is valid, set max score
+2021-07-20 10:54:21.702 | DEBUG    | tester:run:116 - testing proxies use cursor 5616, count 20
+2021-07-20 10:54:27.704 | DEBUG    | tester:run:116 - testing proxies use cursor 5128, count 20
+2021-07-20 10:54:33.702 | DEBUG    | tester:run:116 - testing proxies use cursor 13064, count 20
+2021-07-20 10:54:39.703 | DEBUG    | tester:run:116 - testing proxies use cursor 3208, count 20
+2021-07-20 10:54:45.703 | DEBUG    | tester:run:116 - testing proxies use cursor 11656, count 20
+2021-07-20 10:54:51.703 | DEBUG    | tester:run:116 - testing proxies use cursor 16264, count 20
+2021-07-20 10:54:57.703 | DEBUG    | tester:run:116 - testing proxies use cursor 3656, count 20
+2021-07-20 10:55:03.701 | DEBUG    | tester:run:116 - testing proxies use cursor 12104, count 20
+2021-07-20 10:55:09.703 | DEBUG    | tester:run:116 - testing proxies use cursor 10952, count 20
+2021-07-20 10:55:15.705 | DEBUG    | tester:run:116 - testing proxies use cursor 9160, count 20
+2021-07-20 10:55:21.705 | DEBUG    | tester:run:116 - testing proxies use cursor 7208, count 20
+2021-07-20 10:55:22.663 | INFO     | proxyRedis:max:91 - 60.191.11.241:3128 is valid, set to 5
+2021-07-20 10:55:22.664 | DEBUG    | tester:testIP:96 - proxy 60.191.11.241:3128 is valid, set max score
+2021-07-20 10:55:27.701 | DEBUG    | tester:run:116 - testing proxies use cursor 11816, count 20
+2021-07-20 10:55:33.704 | DEBUG    | tester:run:116 - testing proxies use cursor 4904, count 20
+2021-07-20 10:55:39.703 | DEBUG    | tester:run:116 - testing proxies use cursor 3240, count 20
+2021-07-20 10:55:45.701 | DEBUG    | tester:run:116 - testing proxies use cursor 936, count 20
+2021-07-20 10:55:51.704 | DEBUG    | tester:run:116 - testing proxies use cursor 11368, count 20
+2021-07-20 10:55:57.707 | DEBUG    | tester:run:116 - testing proxies use cursor 12648, count 20
+2021-07-20 10:55:59.925 | INFO     | proxyRedis:max:91 - 39.98.45.168:8081 is valid, set to 5
+2021-07-20 10:55:59.926 | DEBUG    | tester:testIP:96 - proxy 39.98.45.168:8081 is valid, set max score
+2021-07-20 10:56:03.701 | DEBUG    | tester:run:116 - testing proxies use cursor 14568, count 20
+2021-07-20 10:56:09.704 | DEBUG    | tester:run:116 - testing proxies use cursor 488, count 20
+2021-07-20 10:56:15.706 | DEBUG    | tester:run:116 - testing proxies use cursor 4072, count 20
+2021-07-20 10:56:19.060 | INFO     | proxyRedis:max:91 - 88.255.101.231:8080 is valid, set to 5
+2021-07-20 10:56:19.061 | DEBUG    | tester:testIP:96 - proxy 88.255.101.231:8080 is valid, set max score
+2021-07-20 10:56:21.702 | DEBUG    | tester:run:116 - testing proxies use cursor 13848, count 20
+2021-07-20 10:56:27.702 | DEBUG    | tester:run:116 - testing proxies use cursor 6936, count 20
+2021-07-20 10:56:33.701 | DEBUG    | tester:run:116 - testing proxies use cursor 9368, count 20
+2021-07-20 10:56:39.706 | DEBUG    | tester:run:116 - testing proxies use cursor 7576, count 20
+2021-07-20 10:56:45.704 | DEBUG    | tester:run:116 - testing proxies use cursor 88, count 20
+2021-07-20 10:56:51.706 | DEBUG    | tester:run:116 - testing proxies use cursor 6744, count 20
+2021-07-20 10:56:57.705 | DEBUG    | tester:run:116 - testing proxies use cursor 4952, count 20
+2021-07-20 10:57:03.706 | DEBUG    | tester:run:116 - testing proxies use cursor 4824, count 20
+2021-07-20 10:57:05.054 | INFO     | proxyRedis:max:91 - 118.117.188.254:3256 is valid, set to 5
+2021-07-20 10:57:05.055 | DEBUG    | tester:testIP:96 - proxy 118.117.188.254:3256 is valid, set max score
+2021-07-20 10:57:09.703 | DEBUG    | tester:run:116 - testing proxies use cursor 7640, count 20
+2021-07-20 10:57:15.701 | DEBUG    | tester:run:116 - testing proxies use cursor 6200, count 20
+2021-07-20 10:57:21.705 | DEBUG    | tester:run:116 - testing proxies use cursor 3640, count 20
+2021-07-20 10:57:27.707 | DEBUG    | tester:run:116 - testing proxies use cursor 6968, count 20
+2021-07-20 10:57:33.703 | DEBUG    | tester:run:116 - testing proxies use cursor 12984, count 20
+2021-07-20 10:57:39.700 | DEBUG    | tester:run:116 - testing proxies use cursor 7608, count 20
+2021-07-20 10:57:45.706 | DEBUG    | tester:run:116 - testing proxies use cursor 120, count 20
+2021-07-20 10:57:51.702 | DEBUG    | tester:run:116 - testing proxies use cursor 376, count 20
+2021-07-20 10:57:57.704 | DEBUG    | tester:run:116 - testing proxies use cursor 8440, count 20
+2021-07-20 10:58:03.701 | DEBUG    | tester:run:116 - testing proxies use cursor 6904, count 20
+2021-07-20 10:58:05.754 | INFO     | proxyRedis:max:91 - 103.255.53.98:56031 is valid, set to 5
+2021-07-20 10:58:05.755 | DEBUG    | tester:testIP:96 - proxy 103.255.53.98:56031 is valid, set max score
+2021-07-20 10:58:09.705 | DEBUG    | tester:run:116 - testing proxies use cursor 8196, count 20
+2021-07-20 10:58:15.706 | DEBUG    | tester:run:116 - testing proxies use cursor 1540, count 20
+2021-07-20 10:58:19.634 | INFO     | proxyRedis:max:91 - 94.156.144.228:3128 is valid, set to 5
+2021-07-20 10:58:19.635 | DEBUG    | tester:testIP:96 - proxy 94.156.144.228:3128 is valid, set max score
+2021-07-20 10:58:21.702 | DEBUG    | tester:run:116 - testing proxies use cursor 4868, count 20
+2021-07-20 10:58:27.703 | DEBUG    | tester:run:116 - testing proxies use cursor 13444, count 20
+2021-07-20 10:58:33.703 | DEBUG    | tester:run:116 - testing proxies use cursor 2436, count 20
+2021-07-20 10:58:39.707 | DEBUG    | tester:run:116 - testing proxies use cursor 3972, count 20
+2021-07-20 10:58:45.703 | DEBUG    | tester:run:116 - testing proxies use cursor 13380, count 20
+2021-07-20 10:58:51.705 | DEBUG    | tester:run:116 - testing proxies use cursor 10564, count 20
+2021-07-20 10:58:57.702 | DEBUG    | tester:run:116 - testing proxies use cursor 10436, count 20
+2021-07-20 10:58:59.347 | INFO     | proxyRedis:max:91 - 183.88.6.206:8080 is valid, set to 5
+2021-07-20 10:58:59.348 | DEBUG    | tester:testIP:96 - proxy 183.88.6.206:8080 is valid, set max score
+2021-07-20 10:59:03.704 | DEBUG    | tester:run:116 - testing proxies use cursor 16068, count 20
+2021-07-20 10:59:09.706 | DEBUG    | tester:run:116 - testing proxies use cursor 10180, count 20
+2021-07-20 10:59:15.705 | DEBUG    | tester:run:116 - testing proxies use cursor 7204, count 20
+2021-07-20 10:59:21.706 | DEBUG    | tester:run:116 - testing proxies use cursor 2340, count 20
+2021-07-20 10:59:23.586 | INFO     | proxyRedis:max:91 - 59.55.166.200:3256 is valid, set to 5
+2021-07-20 10:59:23.587 | DEBUG    | tester:testIP:96 - proxy 59.55.166.200:3256 is valid, set max score
+2021-07-20 10:59:27.704 | DEBUG    | tester:run:116 - testing proxies use cursor 14116, count 20
+2021-07-20 10:59:33.705 | DEBUG    | tester:run:116 - testing proxies use cursor 10916, count 20
+2021-07-20 10:59:39.706 | DEBUG    | tester:run:116 - testing proxies use cursor 10148, count 20
+2021-07-20 10:59:45.702 | DEBUG    | tester:run:116 - testing proxies use cursor 14948, count 20
+2021-07-20 10:59:51.701 | DEBUG    | tester:run:116 - testing proxies use cursor 868, count 20
+2021-07-20 10:59:57.706 | DEBUG    | tester:run:116 - testing proxies use cursor 14564, count 20
+2021-07-20 11:00:03.703 | DEBUG    | tester:run:116 - testing proxies use cursor 2532, count 20
+2021-07-20 11:00:09.106 | INFO     | proxyRedis:max:91 - 84.52.64.108:3128 is valid, set to 5
+2021-07-20 11:00:09.107 | DEBUG    | tester:testIP:96 - proxy 84.52.64.108:3128 is valid, set max score
+2021-07-20 11:00:09.700 | DEBUG    | tester:run:116 - testing proxies use cursor 5140, count 20
+2021-07-20 11:00:15.700 | DEBUG    | tester:run:116 - testing proxies use cursor 11796, count 20
+2021-07-20 11:00:21.123 | INFO     | proxyRedis:max:91 - 77.70.35.87:37475 is valid, set to 5
+2021-07-20 11:00:21.124 | DEBUG    | tester:testIP:96 - proxy 77.70.35.87:37475 is valid, set max score
+2021-07-20 11:00:21.699 | DEBUG    | tester:run:116 - testing proxies use cursor 1812, count 20
+2021-07-20 11:00:27.705 | DEBUG    | tester:run:116 - testing proxies use cursor 8852, count 20
+2021-07-20 11:00:33.703 | DEBUG    | tester:run:116 - testing proxies use cursor 5524, count 20
+2021-07-20 11:00:38.830 | INFO     | proxyRedis:max:91 - 119.82.253.78:8080 is valid, set to 5
+2021-07-20 11:00:38.831 | DEBUG    | tester:testIP:96 - proxy 119.82.253.78:8080 is valid, set max score
+2021-07-20 11:00:39.701 | DEBUG    | tester:run:116 - testing proxies use cursor 14420, count 20
+2021-07-20 11:00:45.701 | DEBUG    | tester:run:116 - testing proxies use cursor 5460, count 20
+2021-07-20 11:00:51.699 | DEBUG    | tester:run:116 - testing proxies use cursor 2260, count 20
+2021-07-20 11:00:52.963 | INFO     | proxyRedis:max:91 - 112.195.242.157:3256 is valid, set to 5
+2021-07-20 11:00:52.964 | DEBUG    | tester:testIP:96 - proxy 112.195.242.157:3256 is valid, set max score
+2021-07-20 11:00:57.706 | DEBUG    | tester:run:116 - testing proxies use cursor 2516, count 20
+2021-07-20 11:01:03.706 | DEBUG    | tester:run:116 - testing proxies use cursor 6100, count 20
+2021-07-20 11:01:09.705 | DEBUG    | tester:run:116 - testing proxies use cursor 11316, count 20
+2021-07-20 11:01:15.703 | DEBUG    | tester:run:116 - testing proxies use cursor 2868, count 20
+2021-07-20 11:01:21.705 | DEBUG    | tester:run:116 - testing proxies use cursor 12980, count 20
+2021-07-20 11:01:27.702 | DEBUG    | tester:run:116 - testing proxies use cursor 15796, count 20
+Task exception was never retrieved
+future: <Task finished name='Task-4511' coro=<Tester.testIP() done, defined at /root/code/python1/tester.py:77> exception=ClientResponseError(RequestInfo(url=URL('https://httpbin.org/ip'), method='CONNECT', headers=<CIMultiDictProxy('Host': 'httpbin.org', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'User-Agent': 'Python/3.8 aiohttp/3.7.4.post0')>, real_url=URL('http://218.32.46.153:8080')), (), status=400, message='invalid constant string')>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 890, in start
+    message, payload = await self._protocol.read()  # type: ignore
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/streams.py", line 604, in read
+    await self._waiter
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 213, in data_received
+    messages, upgraded, tail = self._parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadHttpMessage: 400, message='invalid constant string'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/root/code/python1/tester.py", line 89, in testIP
+    async with session.get(IP_URL, proxy=f'http://{proxy}', timeout=TEST_TIMEOUT) as response:
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client.py", line 520, in _request
+    conn = await self._connector.connect(
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 535, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 890, in _create_connection
+    _, proto = await self._create_proxy_connection(req, traces, timeout)
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 1111, in _create_proxy_connection
+    resp = await proxy_resp.start(conn)
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 892, in start
+    raise ClientResponseError(
+aiohttp.client_exceptions.ClientResponseError: 400, message='invalid constant string', url=URL('http://218.32.46.153:8080')
+2021-07-20 11:01:29.791 | INFO     | proxyRedis:max:91 - 123.139.56.238:9999 is valid, set to 5
+2021-07-20 11:01:29.792 | DEBUG    | tester:testIP:96 - proxy 123.139.56.238:9999 is valid, set max score
+2021-07-20 11:01:30.807 | INFO     | proxyRedis:max:91 - 177.131.129.210:8080 is valid, set to 5
+2021-07-20 11:01:30.808 | DEBUG    | tester:testIP:96 - proxy 177.131.129.210:8080 is valid, set max score
+2021-07-20 11:01:33.701 | DEBUG    | tester:run:116 - testing proxies use cursor 12404, count 20
+2021-07-20 11:01:39.701 | DEBUG    | tester:run:116 - testing proxies use cursor 7796, count 20
+2021-07-20 11:01:45.700 | DEBUG    | tester:run:116 - testing proxies use cursor 9076, count 20
+2021-07-20 11:01:51.707 | DEBUG    | tester:run:116 - testing proxies use cursor 14580, count 20
+2021-07-20 11:01:57.706 | DEBUG    | tester:run:116 - testing proxies use cursor 13300, count 20
+2021-07-20 11:02:03.702 | DEBUG    | tester:run:116 - testing proxies use cursor 3596, count 20
+2021-07-20 11:02:09.707 | DEBUG    | tester:run:116 - testing proxies use cursor 7436, count 20
+2021-07-20 11:02:15.705 | DEBUG    | tester:run:116 - testing proxies use cursor 15500, count 20
+2021-07-20 11:02:21.703 | DEBUG    | tester:run:116 - testing proxies use cursor 3468, count 20
+2021-07-20 11:02:27.703 | DEBUG    | tester:run:116 - testing proxies use cursor 16268, count 20
+2021-07-20 11:02:33.701 | DEBUG    | tester:run:116 - testing proxies use cursor 5708, count 20
+2021-07-20 11:02:39.700 | DEBUG    | tester:run:116 - testing proxies use cursor 4940, count 20
+2021-07-20 11:02:45.704 | DEBUG    | tester:run:116 - testing proxies use cursor 5324, count 20
+2021-07-20 11:02:49.600 | INFO     | proxyRedis:max:91 - 110.38.186.8:8080 is valid, set to 5
+2021-07-20 11:02:49.600 | DEBUG    | tester:testIP:96 - proxy 110.38.186.8:8080 is valid, set max score
+2021-07-20 11:02:51.702 | DEBUG    | tester:run:116 - testing proxies use cursor 10700, count 20
+2021-07-20 11:02:57.705 | DEBUG    | tester:run:116 - testing proxies use cursor 14380, count 20
+2021-07-20 11:03:03.704 | DEBUG    | tester:run:116 - testing proxies use cursor 12588, count 20
+2021-07-20 11:03:06.809 | INFO     | proxyRedis:max:91 - 110.37.228.213:3128 is valid, set to 5
+2021-07-20 11:03:06.810 | DEBUG    | tester:testIP:96 - proxy 110.37.228.213:3128 is valid, set max score
+2021-07-20 11:03:09.703 | DEBUG    | tester:run:116 - testing proxies use cursor 5932, count 20
+2021-07-20 11:03:15.709 | DEBUG    | tester:run:116 - testing proxies use cursor 2732, count 20
+2021-07-20 11:03:21.700 | DEBUG    | tester:run:116 - testing proxies use cursor 1452, count 20
+2021-07-20 11:03:27.703 | DEBUG    | tester:run:116 - testing proxies use cursor 14252, count 20
+2021-07-20 11:03:33.706 | DEBUG    | tester:run:116 - testing proxies use cursor 620, count 20
+2021-07-20 11:03:39.707 | DEBUG    | tester:run:116 - testing proxies use cursor 13164, count 20
+2021-07-20 11:03:45.705 | DEBUG    | tester:run:116 - testing proxies use cursor 5356, count 20
+2021-07-20 11:03:51.704 | DEBUG    | tester:run:116 - testing proxies use cursor 14828, count 20
+2021-07-20 11:03:57.703 | DEBUG    | tester:run:116 - testing proxies use cursor 16364, count 20
+2021-07-20 11:04:02.411 | INFO     | proxyRedis:max:91 - 113.238.142.208:3128 is valid, set to 5
+2021-07-20 11:04:02.412 | DEBUG    | tester:testIP:96 - proxy 113.238.142.208:3128 is valid, set max score
+2021-07-20 11:04:03.705 | DEBUG    | tester:run:116 - testing proxies use cursor 11804, count 20
+2021-07-20 11:04:09.703 | DEBUG    | tester:run:116 - testing proxies use cursor 13084, count 20
+2021-07-20 11:04:12.880 | INFO     | proxyRedis:max:91 - 179.53.220.245:8080 is valid, set to 5
+2021-07-20 11:04:12.881 | DEBUG    | tester:testIP:96 - proxy 179.53.220.245:8080 is valid, set max score
+2021-07-20 11:04:15.702 | DEBUG    | tester:run:116 - testing proxies use cursor 668, count 20
+2021-07-20 11:04:21.700 | DEBUG    | tester:run:116 - testing proxies use cursor 5020, count 20
+2021-07-20 11:04:27.704 | DEBUG    | tester:run:116 - testing proxies use cursor 604, count 20
+2021-07-20 11:04:33.704 | DEBUG    | tester:run:116 - testing proxies use cursor 15964, count 20
+2021-07-20 11:04:39.701 | DEBUG    | tester:run:116 - testing proxies use cursor 15196, count 20
+2021-07-20 11:04:45.707 | DEBUG    | tester:run:116 - testing proxies use cursor 14044, count 20
+2021-07-20 11:04:51.703 | DEBUG    | tester:run:116 - testing proxies use cursor 4060, count 20
+2021-07-20 11:04:57.701 | DEBUG    | tester:run:116 - testing proxies use cursor 1340, count 20
+2021-07-20 11:05:03.704 | DEBUG    | tester:run:116 - testing proxies use cursor 3260, count 20
+2021-07-20 11:05:09.703 | DEBUG    | tester:run:116 - testing proxies use cursor 12732, count 20
+2021-07-20 11:05:15.705 | DEBUG    | tester:run:116 - testing proxies use cursor 124, count 20
+2021-07-20 11:05:16.816 | INFO     | proxyRedis:max:91 - 117.65.1.58:3256 is valid, set to 5
+2021-07-20 11:05:16.817 | DEBUG    | tester:testIP:96 - proxy 117.65.1.58:3256 is valid, set max score
+2021-07-20 11:05:21.707 | DEBUG    | tester:run:116 - testing proxies use cursor 4476, count 20
+2021-07-20 11:05:26.900 | INFO     | proxyRedis:max:91 - 80.106.247.145:53410 is valid, set to 5
+2021-07-20 11:05:26.900 | DEBUG    | tester:testIP:96 - proxy 80.106.247.145:53410 is valid, set max score
+2021-07-20 11:05:27.702 | DEBUG    | tester:run:116 - testing proxies use cursor 12156, count 20
+2021-07-20 11:05:33.700 | DEBUG    | tester:run:116 - testing proxies use cursor 1788, count 20
+2021-07-20 11:05:39.701 | DEBUG    | tester:run:116 - testing proxies use cursor 13308, count 20
+2021-07-20 11:05:42.351 | INFO     | proxyRedis:max:91 - 14.116.213.100:8081 is valid, set to 5
+2021-07-20 11:05:42.352 | DEBUG    | tester:testIP:96 - proxy 14.116.213.100:8081 is valid, set max score
+2021-07-20 11:05:42.620 | INFO     | proxyRedis:max:91 - 50.192.195.69:52018 is valid, set to 5
+2021-07-20 11:05:42.621 | DEBUG    | tester:testIP:96 - proxy 50.192.195.69:52018 is valid, set max score
+2021-07-20 11:05:43.622 | INFO     | proxyRedis:max:91 - 93.171.192.28:8080 is valid, set to 5
+2021-07-20 11:05:43.623 | DEBUG    | tester:testIP:96 - proxy 93.171.192.28:8080 is valid, set max score
+2021-07-20 11:05:45.702 | DEBUG    | tester:run:116 - testing proxies use cursor 11266, count 20
+2021-07-20 11:05:51.702 | DEBUG    | tester:run:116 - testing proxies use cursor 6402, count 20
+2021-07-20 11:05:53.602 | INFO     | proxyRedis:max:91 - 111.225.153.26:3256 is valid, set to 5
+2021-07-20 11:05:53.603 | DEBUG    | tester:testIP:96 - proxy 111.225.153.26:3256 is valid, set max score
+2021-07-20 11:05:57.702 | DEBUG    | tester:run:116 - testing proxies use cursor 1794, count 20
+2021-07-20 11:06:03.704 | DEBUG    | tester:run:116 - testing proxies use cursor 8834, count 20
+2021-07-20 11:06:09.701 | DEBUG    | tester:run:116 - testing proxies use cursor 3458, count 20
+2021-07-20 11:06:15.703 | DEBUG    | tester:run:116 - testing proxies use cursor 10818, count 20
+2021-07-20 11:06:21.704 | DEBUG    | tester:run:116 - testing proxies use cursor 3394, count 20
+2021-07-20 11:06:27.704 | DEBUG    | tester:run:116 - testing proxies use cursor 9410, count 20
+2021-07-20 11:06:33.704 | DEBUG    | tester:run:116 - testing proxies use cursor 10690, count 20
+2021-07-20 11:06:39.704 | DEBUG    | tester:run:116 - testing proxies use cursor 12322, count 20
+2021-07-20 11:06:45.703 | DEBUG    | tester:run:116 - testing proxies use cursor 11810, count 20
+2021-07-20 11:06:51.708 | DEBUG    | tester:run:116 - testing proxies use cursor 8994, count 20
+2021-07-20 11:06:57.705 | DEBUG    | tester:run:116 - testing proxies use cursor 12962, count 20
+2021-07-20 11:07:03.700 | DEBUG    | tester:run:116 - testing proxies use cursor 15778, count 20
+2021-07-20 11:07:08.225 | INFO     | proxyRedis:max:91 - 136.228.160.250:8080 is valid, set to 5
+2021-07-20 11:07:08.225 | DEBUG    | tester:testIP:96 - proxy 136.228.160.250:8080 is valid, set max score
+2021-07-20 11:07:09.593 | INFO     | proxyRedis:max:91 - 201.143.32.82:80 is valid, set to 5
+2021-07-20 11:07:09.594 | DEBUG    | tester:testIP:96 - proxy 201.143.32.82:80 is valid, set max score
+2021-07-20 11:07:09.701 | DEBUG    | tester:run:116 - testing proxies use cursor 3170, count 20
+2021-07-20 11:07:15.702 | DEBUG    | tester:run:116 - testing proxies use cursor 14690, count 20
+2021-07-20 11:07:21.707 | DEBUG    | tester:run:116 - testing proxies use cursor 8034, count 20
+2021-07-20 11:07:23.204 | INFO     | proxyRedis:max:91 - 47.107.128.69:888 is valid, set to 5
+2021-07-20 11:07:23.205 | DEBUG    | tester:testIP:96 - proxy 47.107.128.69:888 is valid, set max score
+2021-07-20 11:07:27.704 | DEBUG    | tester:run:116 - testing proxies use cursor 5858, count 20
+2021-07-20 11:07:33.707 | DEBUG    | tester:run:116 - testing proxies use cursor 7138, count 20
+2021-07-20 11:07:39.704 | DEBUG    | tester:run:116 - testing proxies use cursor 5138, count 20
+2021-07-20 11:07:45.703 | DEBUG    | tester:run:116 - testing proxies use cursor 8466, count 20
+2021-07-20 11:07:51.707 | DEBUG    | tester:run:116 - testing proxies use cursor 786, count 20
+2021-07-20 11:07:57.707 | DEBUG    | tester:run:116 - testing proxies use cursor 14482, count 20
+2021-07-20 11:08:03.703 | DEBUG    | tester:run:116 - testing proxies use cursor 402, count 20
+2021-07-20 11:08:09.711 | DEBUG    | tester:run:116 - testing proxies use cursor 16274, count 20
+2021-07-20 11:08:15.701 | DEBUG    | tester:run:116 - testing proxies use cursor 338, count 20
+2021-07-20 11:08:21.706 | DEBUG    | tester:run:116 - testing proxies use cursor 6994, count 20
+2021-07-20 11:08:27.704 | DEBUG    | tester:run:116 - testing proxies use cursor 13010, count 20
+2021-07-20 11:08:33.705 | DEBUG    | tester:run:116 - testing proxies use cursor 7634, count 20
+Task exception was never retrieved
+future: <Task finished name='Task-7589' coro=<Tester.testIP() done, defined at /root/code/python1/tester.py:77> exception=ClientResponseError(RequestInfo(url=URL('https://httpbin.org/ip'), method='CONNECT', headers=<CIMultiDictProxy('Host': 'httpbin.org', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'User-Agent': 'Python/3.8 aiohttp/3.7.4.post0')>, real_url=URL('http://39.106.223.134:80')), (), status=400, message='invalid constant string')>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 890, in start
+    message, payload = await self._protocol.read()  # type: ignore
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/streams.py", line 604, in read
+    await self._waiter
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 213, in data_received
+    messages, upgraded, tail = self._parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadHttpMessage: 400, message='invalid constant string'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/root/code/python1/tester.py", line 89, in testIP
+    async with session.get(IP_URL, proxy=f'http://{proxy}', timeout=TEST_TIMEOUT) as response:
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client.py", line 520, in _request
+    conn = await self._connector.connect(
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 535, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 890, in _create_connection
+    _, proto = await self._create_proxy_connection(req, traces, timeout)
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 1111, in _create_proxy_connection
+    resp = await proxy_resp.start(conn)
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 892, in start
+    raise ClientResponseError(
+aiohttp.client_exceptions.ClientResponseError: 400, message='invalid constant string', url=URL('http://39.106.223.134:80')
+2021-07-20 11:08:39.702 | DEBUG    | tester:run:116 - testing proxies use cursor 13362, count 20
+2021-07-20 11:08:45.705 | DEBUG    | tester:run:116 - testing proxies use cursor 9522, count 20
+2021-07-20 11:08:51.700 | DEBUG    | tester:run:116 - testing proxies use cursor 9394, count 20
+2021-07-20 11:08:57.707 | DEBUG    | tester:run:116 - testing proxies use cursor 3762, count 20
+2021-07-20 11:08:58.886 | INFO     | proxyRedis:max:91 - 182.84.144.12:3256 is valid, set to 5
+2021-07-20 11:08:58.887 | DEBUG    | tester:testIP:96 - proxy 182.84.144.12:3256 is valid, set max score
+2021-07-20 11:09:03.705 | DEBUG    | tester:run:116 - testing proxies use cursor 6066, count 20
+2021-07-20 11:09:09.705 | DEBUG    | tester:run:116 - testing proxies use cursor 12914, count 20
+2021-07-20 11:09:12.576 | INFO     | proxyRedis:max:91 - 94.181.48.171:1256 is valid, set to 5
+2021-07-20 11:09:12.577 | DEBUG    | tester:testIP:96 - proxy 94.181.48.171:1256 is valid, set max score
+2021-07-20 11:09:15.704 | DEBUG    | tester:run:116 - testing proxies use cursor 15730, count 20
+2021-07-20 11:09:21.702 | DEBUG    | tester:run:116 - testing proxies use cursor 14578, count 20
+2021-07-20 11:09:27.708 | DEBUG    | tester:run:116 - testing proxies use cursor 7922, count 20
+2021-07-20 11:09:33.704 | DEBUG    | tester:run:116 - testing proxies use cursor 2034, count 20
+2021-07-20 11:09:39.706 | DEBUG    | tester:run:116 - testing proxies use cursor 5642, count 20
+2021-07-20 11:09:45.704 | DEBUG    | tester:run:116 - testing proxies use cursor 11018, count 20
+2021-07-20 11:09:47.766 | INFO     | proxyRedis:max:91 - 104.238.195.10:80 is valid, set to 5
+2021-07-20 11:09:47.767 | DEBUG    | tester:testIP:96 - proxy 104.238.195.10:80 is valid, set max score
+2021-07-20 11:09:51.699 | DEBUG    | tester:run:116 - testing proxies use cursor 11402, count 20
+2021-07-20 11:09:57.710 | DEBUG    | tester:run:116 - testing proxies use cursor 9098, count 20
+2021-07-20 11:10:03.702 | DEBUG    | tester:run:116 - testing proxies use cursor 13386, count 20
+Task exception was never retrieved
+future: <Task finished name='Task-8389' coro=<Tester.testIP() done, defined at /root/code/python1/tester.py:77> exception=ClientResponseError(RequestInfo(url=URL('https://httpbin.org/ip'), method='CONNECT', headers=<CIMultiDictProxy('Host': 'httpbin.org', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'User-Agent': 'Python/3.8 aiohttp/3.7.4.post0')>, real_url=URL('http://77.37.155.85:808')), (), status=400, message='invalid constant string')>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 890, in start
+    message, payload = await self._protocol.read()  # type: ignore
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/streams.py", line 604, in read
+    await self._waiter
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 213, in data_received
+    messages, upgraded, tail = self._parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadHttpMessage: 400, message='invalid constant string'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/root/code/python1/tester.py", line 89, in testIP
+    async with session.get(IP_URL, proxy=f'http://{proxy}', timeout=TEST_TIMEOUT) as response:
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client.py", line 520, in _request
+    conn = await self._connector.connect(
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 535, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 890, in _create_connection
+    _, proto = await self._create_proxy_connection(req, traces, timeout)
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 1111, in _create_proxy_connection
+    resp = await proxy_resp.start(conn)
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 892, in start
+    raise ClientResponseError(
+aiohttp.client_exceptions.ClientResponseError: 400, message='invalid constant string', url=URL('http://77.37.155.85:808')
+2021-07-20 11:10:09.704 | DEBUG    | tester:run:116 - testing proxies use cursor 330, count 20
+2021-07-20 11:10:15.702 | DEBUG    | tester:run:116 - testing proxies use cursor 8010, count 20
+2021-07-20 11:10:21.705 | DEBUG    | tester:run:116 - testing proxies use cursor 15050, count 20
+2021-07-20 11:10:27.699 | DEBUG    | tester:run:116 - testing proxies use cursor 12234, count 20
+2021-07-20 11:10:33.704 | DEBUG    | tester:run:116 - testing proxies use cursor 8746, count 20
+2021-07-20 11:10:36.934 | INFO     | proxyRedis:max:91 - 125.87.95.5:3256 is valid, set to 5
+2021-07-20 11:10:36.935 | DEBUG    | tester:testIP:96 - proxy 125.87.95.5:3256 is valid, set max score
+2021-07-20 11:10:39.702 | DEBUG    | tester:run:116 - testing proxies use cursor 11562, count 20
+2021-07-20 11:10:42.013 | INFO     | proxyRedis:max:91 - 88.255.101.235:8080 is valid, set to 5
+2021-07-20 11:10:42.013 | DEBUG    | tester:testIP:96 - proxy 88.255.101.235:8080 is valid, set max score
+2021-07-20 11:10:44.445 | INFO     | proxyRedis:max:91 - 190.214.27.106:48586 is valid, set to 5
+2021-07-20 11:10:44.446 | DEBUG    | tester:testIP:96 - proxy 190.214.27.106:48586 is valid, set max score
+2021-07-20 11:10:45.702 | DEBUG    | tester:run:116 - testing proxies use cursor 11434, count 20
+2021-07-20 11:10:51.708 | DEBUG    | tester:run:116 - testing proxies use cursor 3498, count 20
+2021-07-20 11:10:57.702 | DEBUG    | tester:run:116 - testing proxies use cursor 10346, count 20
+2021-07-20 11:11:03.702 | DEBUG    | tester:run:116 - testing proxies use cursor 12650, count 20
+2021-07-20 11:11:09.703 | DEBUG    | tester:run:116 - testing proxies use cursor 16234, count 20
+2021-07-20 11:11:15.703 | DEBUG    | tester:run:116 - testing proxies use cursor 7914, count 20
+2021-07-20 11:11:21.703 | DEBUG    | tester:run:116 - testing proxies use cursor 6122, count 20
+2021-07-20 11:11:27.704 | DEBUG    | tester:run:116 - testing proxies use cursor 2330, count 20
+2021-07-20 11:11:33.703 | DEBUG    | tester:run:116 - testing proxies use cursor 3866, count 20
+2021-07-20 11:11:39.706 | DEBUG    | tester:run:116 - testing proxies use cursor 1434, count 20
+2021-07-20 11:11:45.701 | DEBUG    | tester:run:116 - testing proxies use cursor 10330, count 20
+2021-07-20 11:11:51.703 | DEBUG    | tester:run:116 - testing proxies use cursor 346, count 20
+2021-07-20 11:11:57.706 | DEBUG    | tester:run:116 - testing proxies use cursor 5978, count 20
+2021-07-20 11:12:01.379 | INFO     | proxyRedis:max:91 - 45.177.109.195:8080 is valid, set to 5
+2021-07-20 11:12:01.380 | DEBUG    | tester:testIP:96 - proxy 45.177.109.195:8080 is valid, set max score
+2021-07-20 11:12:03.700 | DEBUG    | tester:run:116 - testing proxies use cursor 13018, count 20
+2021-07-20 11:12:09.704 | DEBUG    | tester:run:116 - testing proxies use cursor 6618, count 20
+2021-07-20 11:12:15.701 | DEBUG    | tester:run:116 - testing proxies use cursor 14394, count 20
+2021-07-20 11:12:21.705 | DEBUG    | tester:run:116 - testing proxies use cursor 8506, count 20
+2021-07-20 11:12:27.706 | DEBUG    | tester:run:116 - testing proxies use cursor 6970, count 20
+2021-07-20 11:12:33.704 | DEBUG    | tester:run:116 - testing proxies use cursor 1210, count 20
+2021-07-20 11:12:39.704 | DEBUG    | tester:run:116 - testing proxies use cursor 8634, count 20
+2021-07-20 11:12:45.706 | DEBUG    | tester:run:116 - testing proxies use cursor 6266, count 20
+2021-07-20 11:12:51.712 | DEBUG    | tester:run:116 - testing proxies use cursor 4474, count 20
+2021-07-20 11:12:57.251 | INFO     | proxyRedis:max:91 - 190.214.27.46:8080 is valid, set to 5
+2021-07-20 11:12:57.252 | DEBUG    | tester:testIP:96 - proxy 190.214.27.46:8080 is valid, set max score
+2021-07-20 11:12:57.702 | DEBUG    | tester:run:116 - testing proxies use cursor 12154, count 20
+2021-07-20 11:13:03.706 | DEBUG    | tester:run:116 - testing proxies use cursor 5882, count 20
+2021-07-20 11:13:07.977 | INFO     | proxyRedis:max:91 - 103.109.36.52:2401 is valid, set to 5
+2021-07-20 11:13:07.978 | DEBUG    | tester:testIP:96 - proxy 103.109.36.52:2401 is valid, set max score
+2021-07-20 11:13:09.702 | DEBUG    | tester:run:116 - testing proxies use cursor 15354, count 20
+2021-07-20 11:13:15.701 | DEBUG    | tester:run:116 - testing proxies use cursor 2566, count 20
+2021-07-20 11:13:21.705 | DEBUG    | tester:run:116 - testing proxies use cursor 13574, count 20
+2021-07-20 11:13:27.707 | DEBUG    | tester:run:116 - testing proxies use cursor 16134, count 20
+2021-07-20 11:13:33.704 | DEBUG    | tester:run:116 - testing proxies use cursor 7814, count 20
+2021-07-20 11:13:39.701 | DEBUG    | tester:run:116 - testing proxies use cursor 7046, count 20
+2021-07-20 11:13:44.381 | INFO     | proxyRedis:max:91 - 65.184.156.234:52981 is valid, set to 5
+2021-07-20 11:13:44.382 | DEBUG    | tester:testIP:96 - proxy 65.184.156.234:52981 is valid, set max score
+2021-07-20 11:13:45.339 | INFO     | proxyRedis:max:91 - 58.208.138.123:8118 is valid, set to 5
+2021-07-20 11:13:45.340 | DEBUG    | tester:testIP:96 - proxy 58.208.138.123:8118 is valid, set max score
+2021-07-20 11:13:45.700 | DEBUG    | tester:run:116 - testing proxies use cursor 12870, count 20
+2021-07-20 11:13:49.503 | INFO     | proxyRedis:max:91 - 198.13.46.142:3228 is valid, set to 5
+2021-07-20 11:13:49.504 | DEBUG    | tester:testIP:96 - proxy 198.13.46.142:3228 is valid, set max score
+2021-07-20 11:13:51.701 | DEBUG    | tester:run:116 - testing proxies use cursor 1350, count 20
+2021-07-20 11:13:57.703 | DEBUG    | tester:run:116 - testing proxies use cursor 11462, count 20
+2021-07-20 11:14:03.703 | DEBUG    | tester:run:116 - testing proxies use cursor 5574, count 20
+2021-07-20 11:14:09.707 | DEBUG    | tester:run:116 - testing proxies use cursor 2086, count 20
+2021-07-20 11:14:15.702 | DEBUG    | tester:run:116 - testing proxies use cursor 294, count 20
+2021-07-20 11:14:21.056 | INFO     | proxyRedis:max:91 - 46.73.33.253:8080 is valid, set to 5
+2021-07-20 11:14:21.057 | DEBUG    | tester:testIP:96 - proxy 46.73.33.253:8080 is valid, set max score
+2021-07-20 11:14:21.700 | DEBUG    | tester:run:116 - testing proxies use cursor 16166, count 20
+2021-07-20 11:14:27.701 | DEBUG    | tester:run:116 - testing proxies use cursor 15014, count 20
+2021-07-20 11:14:33.705 | DEBUG    | tester:run:116 - testing proxies use cursor 15782, count 20
+2021-07-20 11:14:39.704 | DEBUG    | tester:run:116 - testing proxies use cursor 11366, count 20
+2021-07-20 11:14:45.700 | DEBUG    | tester:run:116 - testing proxies use cursor 15974, count 20
+2021-07-20 11:14:51.705 | DEBUG    | tester:run:116 - testing proxies use cursor 5990, count 20
+2021-07-20 11:14:57.705 | DEBUG    | tester:run:116 - testing proxies use cursor 5862, count 20
+2021-07-20 11:15:03.701 | DEBUG    | tester:run:116 - testing proxies use cursor 11238, count 20
+2021-07-20 11:15:09.703 | DEBUG    | tester:run:116 - testing proxies use cursor 534, count 20
+2021-07-20 11:15:15.701 | DEBUG    | tester:run:116 - testing proxies use cursor 8982, count 20
+2021-07-20 11:15:19.046 | INFO     | proxyRedis:max:91 - 45.169.16.13:8080 is valid, set to 5
+2021-07-20 11:15:19.047 | DEBUG    | tester:testIP:96 - proxy 45.169.16.13:8080 is valid, set max score
+2021-07-20 11:15:21.704 | DEBUG    | tester:run:116 - testing proxies use cursor 12950, count 20
+2021-07-20 11:15:27.708 | DEBUG    | tester:run:116 - testing proxies use cursor 8598, count 20
+2021-07-20 11:15:33.705 | DEBUG    | tester:run:116 - testing proxies use cursor 14230, count 20
+2021-07-20 11:15:39.707 | DEBUG    | tester:run:116 - testing proxies use cursor 12630, count 20
+2021-07-20 11:15:45.707 | DEBUG    | tester:run:116 - testing proxies use cursor 8022, count 20
+2021-07-20 11:15:51.703 | DEBUG    | tester:run:116 - testing proxies use cursor 16086, count 20
+2021-07-20 11:15:57.704 | DEBUG    | tester:run:116 - testing proxies use cursor 14294, count 20
+2021-07-20 11:16:03.708 | DEBUG    | tester:run:116 - testing proxies use cursor 6710, count 20
+2021-07-20 11:16:09.705 | DEBUG    | tester:run:116 - testing proxies use cursor 7478, count 20
+2021-07-20 11:16:15.701 | DEBUG    | tester:run:116 - testing proxies use cursor 13494, count 20
+2021-07-20 11:16:21.702 | DEBUG    | tester:run:116 - testing proxies use cursor 12726, count 20
+2021-07-20 11:16:27.703 | DEBUG    | tester:run:116 - testing proxies use cursor 16310, count 20
+2021-07-20 11:16:33.707 | DEBUG    | tester:run:116 - testing proxies use cursor 2934, count 20
+2021-07-20 11:16:39.702 | DEBUG    | tester:run:116 - testing proxies use cursor 2294, count 20
+2021-07-20 11:16:45.705 | DEBUG    | tester:run:116 - testing proxies use cursor 1782, count 20
+2021-07-20 11:16:51.703 | DEBUG    | tester:run:116 - testing proxies use cursor 1038, count 20
+2021-07-20 11:16:57.704 | DEBUG    | tester:run:116 - testing proxies use cursor 4366, count 20
+2021-07-20 11:17:03.705 | DEBUG    | tester:run:116 - testing proxies use cursor 16142, count 20
+2021-07-20 11:17:09.703 | DEBUG    | tester:run:116 - testing proxies use cursor 9870, count 20
+2021-07-20 11:17:15.704 | DEBUG    | tester:run:116 - testing proxies use cursor 7566, count 20
+2021-07-20 11:17:21.704 | DEBUG    | tester:run:116 - testing proxies use cursor 13902, count 20
+2021-07-20 11:17:27.705 | DEBUG    | tester:run:116 - testing proxies use cursor 14158, count 20
+2021-07-20 11:17:33.132 | INFO     | proxyRedis:max:91 - 190.216.115.116:8080 is valid, set to 5
+2021-07-20 11:17:33.132 | DEBUG    | tester:testIP:96 - proxy 190.216.115.116:8080 is valid, set max score
+2021-07-20 11:17:33.704 | DEBUG    | tester:run:116 - testing proxies use cursor 4558, count 20
+2021-07-20 11:17:39.705 | DEBUG    | tester:run:116 - testing proxies use cursor 10286, count 20
+2021-07-20 11:17:45.702 | DEBUG    | tester:run:116 - testing proxies use cursor 2350, count 20
+2021-07-20 11:17:51.705 | DEBUG    | tester:run:116 - testing proxies use cursor 4270, count 20
+2021-07-20 11:17:57.701 | DEBUG    | tester:run:116 - testing proxies use cursor 3758, count 20
+2021-07-20 11:18:03.702 | DEBUG    | tester:run:116 - testing proxies use cursor 1966, count 20
+2021-07-20 11:18:09.708 | DEBUG    | tester:run:116 - testing proxies use cursor 3182, count 20
+2021-07-20 11:18:15.345 | INFO     | proxyRedis:max:91 - 219.128.76.3:8080 is valid, set to 5
+2021-07-20 11:18:15.346 | DEBUG    | tester:testIP:96 - proxy 219.128.76.3:8080 is valid, set max score
+2021-07-20 11:18:15.701 | DEBUG    | tester:run:116 - testing proxies use cursor 9582, count 20
+2021-07-20 11:18:20.111 | INFO     | proxyRedis:max:91 - 103.209.131.3:8080 is valid, set to 5
+2021-07-20 11:18:20.112 | DEBUG    | tester:testIP:96 - proxy 103.209.131.3:8080 is valid, set max score
+2021-07-20 11:18:21.699 | DEBUG    | tester:run:116 - testing proxies use cursor 15598, count 20
+2021-07-20 11:18:27.704 | DEBUG    | tester:run:116 - testing proxies use cursor 6638, count 20
+2021-07-20 11:18:33.704 | DEBUG    | tester:run:116 - testing proxies use cursor 8174, count 20
+2021-07-20 11:18:39.701 | DEBUG    | tester:run:116 - testing proxies use cursor 9758, count 20
+2021-07-20 11:18:45.706 | DEBUG    | tester:run:116 - testing proxies use cursor 4894, count 20
+2021-07-20 11:18:51.706 | DEBUG    | tester:run:116 - testing proxies use cursor 13470, count 20
+2021-07-20 11:18:57.700 | DEBUG    | tester:run:116 - testing proxies use cursor 3486, count 20
+2021-07-20 11:18:59.408 | INFO     | proxyRedis:max:91 - 182.84.145.229:3256 is valid, set to 5
+2021-07-20 11:18:59.409 | DEBUG    | tester:testIP:96 - proxy 182.84.145.229:3256 is valid, set max score
+2021-07-20 11:19:03.700 | DEBUG    | tester:run:116 - testing proxies use cursor 1118, count 20
+2021-07-20 11:19:09.705 | DEBUG    | tester:run:116 - testing proxies use cursor 10590, count 20
+2021-07-20 11:19:15.701 | DEBUG    | tester:run:116 - testing proxies use cursor 4318, count 20
+2021-07-20 11:19:16.851 | INFO     | proxyRedis:max:91 - 39.71.123.83:8118 is valid, set to 5
+2021-07-20 11:19:16.852 | DEBUG    | tester:testIP:96 - proxy 39.71.123.83:8118 is valid, set max score
+2021-07-20 11:19:18.695 | INFO     | proxyRedis:max:91 - 183.88.228.208:8080 is valid, set to 5
+2021-07-20 11:19:18.696 | DEBUG    | tester:testIP:96 - proxy 183.88.228.208:8080 is valid, set max score
+2021-07-20 11:19:21.703 | DEBUG    | tester:run:116 - testing proxies use cursor 1758, count 20
+2021-07-20 11:19:27.700 | DEBUG    | tester:run:116 - testing proxies use cursor 13278, count 20
+2021-07-20 11:19:33.701 | DEBUG    | tester:run:116 - testing proxies use cursor 13374, count 20
+2021-07-20 11:19:39.704 | DEBUG    | tester:run:116 - testing proxies use cursor 4414, count 20
+2021-07-20 11:19:45.699 | DEBUG    | tester:run:116 - testing proxies use cursor 12478, count 20
+2021-07-20 11:19:51.705 | DEBUG    | tester:run:116 - testing proxies use cursor 5822, count 20
+2021-07-20 11:19:57.706 | DEBUG    | tester:run:116 - testing proxies use cursor 15294, count 20
+2021-07-20 11:20:03.700 | DEBUG    | tester:run:116 - testing proxies use cursor 4734, count 20
+2021-07-20 11:20:09.700 | DEBUG    | tester:run:116 - testing proxies use cursor 11646, count 20
+2021-07-20 11:20:15.704 | DEBUG    | tester:run:116 - testing proxies use cursor 2814, count 20
+2021-07-20 11:20:21.704 | DEBUG    | tester:run:116 - testing proxies use cursor 1534, count 20
+2021-07-20 11:20:27.707 | DEBUG    | tester:run:116 - testing proxies use cursor 12286, count 20
+2021-07-20 11:20:33.704 | DEBUG    | tester:run:116 - testing proxies use cursor 3585, count 20
+2021-07-20 11:20:35.547 | INFO     | proxyRedis:max:91 - 176.9.63.62:3128 is valid, set to 5
+2021-07-20 11:20:35.548 | DEBUG    | tester:testIP:96 - proxy 176.9.63.62:3128 is valid, set max score
+2021-07-20 11:20:39.707 | DEBUG    | tester:run:116 - testing proxies use cursor 9345, count 20
+2021-07-20 11:20:45.702 | DEBUG    | tester:run:116 - testing proxies use cursor 10625, count 20
+2021-07-20 11:20:51.713 | DEBUG    | tester:run:116 - testing proxies use cursor 12353, count 20
+2021-07-20 11:20:57.704 | DEBUG    | tester:run:116 - testing proxies use cursor 8513, count 20
+2021-07-20 11:21:03.706 | DEBUG    | tester:run:116 - testing proxies use cursor 8385, count 20
+2021-07-20 11:21:09.702 | DEBUG    | tester:run:116 - testing proxies use cursor 10689, count 20
+2021-07-20 11:21:15.704 | DEBUG    | tester:run:116 - testing proxies use cursor 13345, count 20
+2021-07-20 11:21:21.714 | DEBUG    | tester:run:116 - testing proxies use cursor 15905, count 20
+2021-07-20 11:21:24.858 | INFO     | proxyRedis:max:91 - 114.231.8.137:8888 is valid, set to 5
+2021-07-20 11:21:24.862 | DEBUG    | tester:testIP:96 - proxy 114.231.8.137:8888 is valid, set max score
+2021-07-20 11:21:24.992 | INFO     | proxyRedis:max:91 - 213.108.5.224:3128 is valid, set to 5
+2021-07-20 11:21:24.992 | DEBUG    | tester:testIP:96 - proxy 213.108.5.224:3128 is valid, set max score
+2021-07-20 11:21:27.701 | DEBUG    | tester:run:116 - testing proxies use cursor 6945, count 20
+2021-07-20 11:21:33.704 | DEBUG    | tester:run:116 - testing proxies use cursor 8865, count 20
+2021-07-20 11:21:39.706 | DEBUG    | tester:run:116 - testing proxies use cursor 5025, count 20
+2021-07-20 11:21:45.705 | DEBUG    | tester:run:116 - testing proxies use cursor 15457, count 20
+2021-07-20 11:21:51.704 | DEBUG    | tester:run:116 - testing proxies use cursor 1377, count 20
+2021-07-20 11:21:54.187 | INFO     | proxyRedis:max:91 - 169.57.157.148:8123 is valid, set to 5
+2021-07-20 11:21:54.187 | DEBUG    | tester:testIP:96 - proxy 169.57.157.148:8123 is valid, set max score
+2021-07-20 11:21:57.700 | DEBUG    | tester:run:116 - testing proxies use cursor 16225, count 20
+2021-07-20 11:22:03.705 | DEBUG    | tester:run:116 - testing proxies use cursor 9953, count 20
+2021-07-20 11:22:09.703 | DEBUG    | tester:run:116 - testing proxies use cursor 7649, count 20
+2021-07-20 11:22:15.706 | DEBUG    | tester:run:116 - testing proxies use cursor 4625, count 20
+2021-07-20 11:22:21.707 | DEBUG    | tester:run:116 - testing proxies use cursor 9489, count 20
+2021-07-20 11:22:27.703 | DEBUG    | tester:run:116 - testing proxies use cursor 7953, count 20
+2021-07-20 11:22:33.705 | DEBUG    | tester:run:116 - testing proxies use cursor 9873, count 20
+2021-07-20 11:22:39.705 | DEBUG    | tester:run:116 - testing proxies use cursor 3473, count 20
+2021-07-20 11:22:45.704 | DEBUG    | tester:run:116 - testing proxies use cursor 14417, count 20
+2021-07-20 11:22:51.701 | DEBUG    | tester:run:116 - testing proxies use cursor 337, count 20
+2021-07-20 11:22:57.700 | DEBUG    | tester:run:116 - testing proxies use cursor 5969, count 20
+2021-07-20 11:23:03.702 | DEBUG    | tester:run:116 - testing proxies use cursor 10961, count 20
+2021-07-20 11:23:09.704 | DEBUG    | tester:run:116 - testing proxies use cursor 5073, count 20
+2021-07-20 11:23:15.706 | DEBUG    | tester:run:116 - testing proxies use cursor 13361, count 20
+2021-07-20 11:23:21.703 | DEBUG    | tester:run:116 - testing proxies use cursor 9521, count 20
+2021-07-20 11:23:27.703 | DEBUG    | tester:run:116 - testing proxies use cursor 1201, count 20
+2021-07-20 11:23:33.704 | DEBUG    | tester:run:116 - testing proxies use cursor 5041, count 20
+2021-07-20 11:23:39.706 | DEBUG    | tester:run:116 - testing proxies use cursor 7281, count 20
+2021-07-20 11:23:45.701 | DEBUG    | tester:run:116 - testing proxies use cursor 9585, count 20
+2021-07-20 11:23:51.702 | DEBUG    | tester:run:116 - testing proxies use cursor 7409, count 20
+2021-07-20 11:23:55.822 | INFO     | proxyRedis:max:91 - 113.100.209.211:3128 is valid, set to 5
+2021-07-20 11:23:55.823 | DEBUG    | tester:testIP:96 - proxy 113.100.209.211:3128 is valid, set max score
+2021-07-20 11:23:57.701 | DEBUG    | tester:run:116 - testing proxies use cursor 3569, count 20
+2021-07-20 11:24:03.703 | DEBUG    | tester:run:116 - testing proxies use cursor 6153, count 20
+2021-07-20 11:24:09.703 | DEBUG    | tester:run:116 - testing proxies use cursor 13833, count 20
+2021-07-20 11:24:13.958 | INFO     | proxyRedis:max:91 - 89.24.76.185:32842 is valid, set to 5
+2021-07-20 11:24:13.958 | DEBUG    | tester:testIP:96 - proxy 89.24.76.185:32842 is valid, set max score
+2021-07-20 11:24:15.700 | DEBUG    | tester:run:116 - testing proxies use cursor 6921, count 20
+2021-07-20 11:24:21.705 | DEBUG    | tester:run:116 - testing proxies use cursor 9865, count 20
+2021-07-20 11:24:27.707 | DEBUG    | tester:run:116 - testing proxies use cursor 9097, count 20
+2021-07-20 11:24:33.703 | DEBUG    | tester:run:116 - testing proxies use cursor 7241, count 20
+2021-07-20 11:24:37.944 | INFO     | proxyRedis:max:91 - 96.9.69.164:53281 is valid, set to 5
+2021-07-20 11:24:37.945 | DEBUG    | tester:testIP:96 - proxy 96.9.69.164:53281 is valid, set max score
+2021-07-20 11:24:39.701 | DEBUG    | tester:run:116 - testing proxies use cursor 9545, count 20
+2021-07-20 11:24:45.703 | DEBUG    | tester:run:116 - testing proxies use cursor 4297, count 20
+2021-07-20 11:24:51.705 | DEBUG    | tester:run:116 - testing proxies use cursor 10697, count 20
+2021-07-20 11:24:57.706 | DEBUG    | tester:run:116 - testing proxies use cursor 14281, count 20
+2021-07-20 11:25:03.703 | DEBUG    | tester:run:116 - testing proxies use cursor 297, count 20
+2021-07-20 11:25:09.706 | DEBUG    | tester:run:116 - testing proxies use cursor 3881, count 20
+2021-07-20 11:25:15.701 | DEBUG    | tester:run:116 - testing proxies use cursor 9897, count 20
+2021-07-20 11:25:21.700 | DEBUG    | tester:run:116 - testing proxies use cursor 8105, count 20
+2021-07-20 11:25:23.404 | INFO     | proxyRedis:max:91 - 95.217.34.209:3128 is valid, set to 5
+2021-07-20 11:25:23.405 | DEBUG    | tester:testIP:96 - proxy 95.217.34.209:3128 is valid, set max score
+2021-07-20 11:25:27.704 | DEBUG    | tester:run:116 - testing proxies use cursor 12905, count 20
+2021-07-20 11:25:33.702 | DEBUG    | tester:run:116 - testing proxies use cursor 14697, count 20
+2021-07-20 11:25:39.703 | DEBUG    | tester:run:116 - testing proxies use cursor 12521, count 20
+2021-07-20 11:25:41.018 | INFO     | proxyRedis:max:91 - 119.81.71.27:80 is valid, set to 5
+2021-07-20 11:25:41.019 | DEBUG    | tester:testIP:96 - proxy 119.81.71.27:80 is valid, set max score
+2021-07-20 11:25:45.701 | DEBUG    | tester:run:116 - testing proxies use cursor 15081, count 20
+2021-07-20 11:25:51.701 | DEBUG    | tester:run:116 - testing proxies use cursor 1001, count 20
+2021-07-20 11:25:55.964 | INFO     | proxyRedis:max:91 - 78.30.198.160:8080 is valid, set to 5
+2021-07-20 11:25:55.965 | DEBUG    | tester:testIP:96 - proxy 78.30.198.160:8080 is valid, set max score
+2021-07-20 11:25:57.701 | DEBUG    | tester:run:116 - testing proxies use cursor 15385, count 20
+2021-07-20 11:26:03.704 | DEBUG    | tester:run:116 - testing proxies use cursor 4377, count 20
+2021-07-20 11:26:09.702 | DEBUG    | tester:run:116 - testing proxies use cursor 10393, count 20
+2021-07-20 11:26:15.703 | DEBUG    | tester:run:116 - testing proxies use cursor 8601, count 20
+2021-07-20 11:26:21.702 | DEBUG    | tester:run:116 - testing proxies use cursor 12377, count 20
+2021-07-20 11:26:27.701 | DEBUG    | tester:run:116 - testing proxies use cursor 3673, count 20
+2021-07-20 11:26:33.705 | DEBUG    | tester:run:116 - testing proxies use cursor 7001, count 20
+2021-07-20 11:26:39.702 | DEBUG    | tester:run:116 - testing proxies use cursor 729, count 20
+2021-07-20 11:26:45.708 | DEBUG    | tester:run:116 - testing proxies use cursor 3545, count 20
+2021-07-20 11:26:51.704 | DEBUG    | tester:run:116 - testing proxies use cursor 2617, count 20
+2021-07-20 11:26:57.703 | DEBUG    | tester:run:116 - testing proxies use cursor 6969, count 20
+2021-07-20 11:27:03.703 | DEBUG    | tester:run:116 - testing proxies use cursor 8889, count 20
+2021-07-20 11:27:09.706 | DEBUG    | tester:run:116 - testing proxies use cursor 1465, count 20
+2021-07-20 11:27:15.706 | DEBUG    | tester:run:116 - testing proxies use cursor 7289, count 20
+2021-07-20 11:27:21.705 | DEBUG    | tester:run:116 - testing proxies use cursor 13689, count 20
+2021-07-20 11:27:27.702 | DEBUG    | tester:run:116 - testing proxies use cursor 14585, count 20
+2021-07-20 11:27:33.703 | DEBUG    | tester:run:116 - testing proxies use cursor 16121, count 20
+2021-07-20 11:27:39.703 | DEBUG    | tester:run:116 - testing proxies use cursor 12281, count 20
+2021-07-20 11:27:45.702 | DEBUG    | tester:run:116 - testing proxies use cursor 9733, count 20
+2021-07-20 11:27:51.704 | DEBUG    | tester:run:116 - testing proxies use cursor 2821, count 20
+2021-07-20 11:27:57.704 | DEBUG    | tester:run:116 - testing proxies use cursor 15493, count 20
+2021-07-20 11:28:00.897 | INFO     | proxyRedis:max:91 - 192.161.59.239:8888 is valid, set to 5
+2021-07-20 11:28:00.898 | DEBUG    | tester:testIP:96 - proxy 192.161.59.239:8888 is valid, set max score
+2021-07-20 11:28:03.704 | DEBUG    | tester:run:116 - testing proxies use cursor 10117, count 20
+2021-07-20 11:28:07.489 | INFO     | proxyRedis:max:91 - 180.178.93.219:80 is valid, set to 5
+2021-07-20 11:28:07.489 | DEBUG    | tester:testIP:96 - proxy 180.178.93.219:80 is valid, set max score
+2021-07-20 11:28:09.705 | DEBUG    | tester:run:116 - testing proxies use cursor 9285, count 20
+2021-07-20 11:28:15.703 | DEBUG    | tester:run:116 - testing proxies use cursor 14661, count 20
+2021-07-20 11:28:21.706 | DEBUG    | tester:run:116 - testing proxies use cursor 8389, count 20
+2021-07-20 11:28:23.026 | INFO     | proxyRedis:max:91 - 119.84.70.198:6666 is valid, set to 5
+2021-07-20 11:28:23.027 | DEBUG    | tester:testIP:96 - proxy 119.84.70.198:6666 is valid, set max score
+2021-07-20 11:28:27.707 | DEBUG    | tester:run:116 - testing proxies use cursor 1733, count 20
+2021-07-20 11:28:33.700 | DEBUG    | tester:run:116 - testing proxies use cursor 1989, count 20
+2021-07-20 11:28:39.704 | DEBUG    | tester:run:116 - testing proxies use cursor 8741, count 20
+2021-07-20 11:28:45.705 | DEBUG    | tester:run:116 - testing proxies use cursor 11557, count 20
+2021-07-20 11:28:51.705 | DEBUG    | tester:run:116 - testing proxies use cursor 165, count 20
+2021-07-20 11:28:57.705 | DEBUG    | tester:run:116 - testing proxies use cursor 9893, count 20
+2021-07-20 11:29:03.701 | DEBUG    | tester:run:116 - testing proxies use cursor 13221, count 20
+2021-07-20 11:29:09.707 | DEBUG    | tester:run:116 - testing proxies use cursor 11365, count 20
+2021-07-20 11:29:15.701 | DEBUG    | tester:run:116 - testing proxies use cursor 12645, count 20
+2021-07-20 11:29:21.706 | DEBUG    | tester:run:116 - testing proxies use cursor 16229, count 20
+2021-07-20 11:29:27.710 | DEBUG    | tester:run:116 - testing proxies use cursor 15589, count 20
+2021-07-20 11:29:33.706 | DEBUG    | tester:run:116 - testing proxies use cursor 10213, count 20
+2021-07-20 11:29:39.705 | DEBUG    | tester:run:116 - testing proxies use cursor 7189, count 20
+2021-07-20 11:29:45.701 | DEBUG    | tester:run:116 - testing proxies use cursor 10517, count 20
+2021-07-20 11:29:51.704 | DEBUG    | tester:run:116 - testing proxies use cursor 4245, count 20
+2021-07-20 11:29:57.707 | DEBUG    | tester:run:116 - testing proxies use cursor 7829, count 20
+2021-07-20 11:30:03.701 | DEBUG    | tester:run:116 - testing proxies use cursor 11157, count 20
+2021-07-20 11:30:09.702 | DEBUG    | tester:run:116 - testing proxies use cursor 12885, count 20
+2021-07-20 11:30:15.706 | DEBUG    | tester:run:116 - testing proxies use cursor 11093, count 20
+2021-07-20 11:30:19.105 | INFO     | proxyRedis:max:91 - 120.29.242.237:3128 is valid, set to 5
+2021-07-20 11:30:19.105 | DEBUG    | tester:testIP:96 - proxy 120.29.242.237:3128 is valid, set max score
+2021-07-20 11:30:21.701 | DEBUG    | tester:run:116 - testing proxies use cursor 9429, count 20
+2021-07-20 11:30:27.701 | DEBUG    | tester:run:116 - testing proxies use cursor 2517, count 20
+2021-07-20 11:30:33.705 | DEBUG    | tester:run:116 - testing proxies use cursor 14293, count 20
+2021-07-20 11:30:39.245 | INFO     | proxyRedis:max:91 - 109.170.97.146:8085 is valid, set to 5
+2021-07-20 11:30:39.245 | DEBUG    | tester:testIP:96 - proxy 109.170.97.146:8085 is valid, set max score
+2021-07-20 11:30:39.701 | DEBUG    | tester:run:116 - testing proxies use cursor 2613, count 20
+2021-07-20 11:30:40.937 | INFO     | proxyRedis:max:91 - 203.91.121.212:3128 is valid, set to 5
+2021-07-20 11:30:40.938 | DEBUG    | tester:testIP:96 - proxy 203.91.121.212:3128 is valid, set max score
+2021-07-20 11:30:45.703 | DEBUG    | tester:run:116 - testing proxies use cursor 821, count 20
+2021-07-20 11:30:51.705 | DEBUG    | tester:run:116 - testing proxies use cursor 2229, count 20
+2021-07-20 11:30:57.703 | DEBUG    | tester:run:116 - testing proxies use cursor 2485, count 20
+2021-07-20 11:31:03.707 | DEBUG    | tester:run:116 - testing proxies use cursor 4021, count 20
+2021-07-20 11:31:09.706 | DEBUG    | tester:run:116 - testing proxies use cursor 10613, count 20
+2021-07-20 11:31:15.703 | DEBUG    | tester:run:116 - testing proxies use cursor 12533, count 20
+2021-07-20 11:31:21.706 | DEBUG    | tester:run:116 - testing proxies use cursor 14837, count 20
+2021-07-20 11:31:24.047 | INFO     | proxyRedis:max:91 - 45.250.226.14:3128 is valid, set to 5
+2021-07-20 11:31:24.048 | DEBUG    | tester:testIP:96 - proxy 45.250.226.14:3128 is valid, set max score
+2021-07-20 11:31:27.703 | DEBUG    | tester:run:116 - testing proxies use cursor 5133, count 20
+2021-07-20 11:31:33.706 | DEBUG    | tester:run:116 - testing proxies use cursor 269, count 20
+2021-07-20 11:31:39.703 | DEBUG    | tester:run:116 - testing proxies use cursor 141, count 20
+2021-07-20 11:31:45.702 | DEBUG    | tester:run:116 - testing proxies use cursor 13965, count 20
+2021-07-20 11:31:51.703 | DEBUG    | tester:run:116 - testing proxies use cursor 15245, count 20
+2021-07-20 11:31:57.704 | DEBUG    | tester:run:116 - testing proxies use cursor 333, count 20
+2021-07-20 11:32:03.701 | DEBUG    | tester:run:116 - testing proxies use cursor 10061, count 20
+2021-07-20 11:32:09.705 | DEBUG    | tester:run:116 - testing proxies use cursor 12749, count 20
+2021-07-20 11:32:15.705 | DEBUG    | tester:run:116 - testing proxies use cursor 6189, count 20
+2021-07-20 11:32:21.702 | DEBUG    | tester:run:116 - testing proxies use cursor 13869, count 20
+2021-07-20 11:32:27.702 | DEBUG    | tester:run:116 - testing proxies use cursor 13101, count 20
+2021-07-20 11:32:33.701 | DEBUG    | tester:run:116 - testing proxies use cursor 3245, count 20
+2021-07-20 11:32:39.701 | DEBUG    | tester:run:116 - testing proxies use cursor 13741, count 20
+2021-07-20 11:32:45.708 | DEBUG    | tester:run:116 - testing proxies use cursor 2157, count 20
+2021-07-20 11:32:51.707 | DEBUG    | tester:run:116 - testing proxies use cursor 7789, count 20
+2021-07-20 11:32:57.708 | DEBUG    | tester:run:116 - testing proxies use cursor 16237, count 20
+2021-07-20 11:33:03.702 | DEBUG    | tester:run:116 - testing proxies use cursor 7917, count 20
+2021-07-20 11:33:09.701 | DEBUG    | tester:run:116 - testing proxies use cursor 11245, count 20
+2021-07-20 11:33:15.701 | DEBUG    | tester:run:116 - testing proxies use cursor 11293, count 20
+2021-07-20 11:33:21.707 | DEBUG    | tester:run:116 - testing proxies use cursor 5405, count 20
+2021-07-20 11:33:27.706 | DEBUG    | tester:run:116 - testing proxies use cursor 4765, count 20
+2021-07-20 11:33:33.701 | DEBUG    | tester:run:116 - testing proxies use cursor 2973, count 20
+2021-07-20 11:33:39.047 | INFO     | proxyRedis:max:91 - 187.1.57.206:20183 is valid, set to 5
+2021-07-20 11:33:39.047 | DEBUG    | tester:testIP:96 - proxy 187.1.57.206:20183 is valid, set max score
+2021-07-20 11:33:39.700 | DEBUG    | tester:run:116 - testing proxies use cursor 7261, count 20
+2021-07-20 11:33:45.702 | DEBUG    | tester:run:116 - testing proxies use cursor 349, count 20
+2021-07-20 11:33:51.703 | DEBUG    | tester:run:116 - testing proxies use cursor 7005, count 20
+2021-07-20 11:33:57.704 | DEBUG    | tester:run:116 - testing proxies use cursor 3293, count 20
+2021-07-20 11:33:59.397 | INFO     | proxyRedis:max:91 - 195.154.67.61:3128 is valid, set to 5
+2021-07-20 11:33:59.398 | DEBUG    | tester:testIP:96 - proxy 195.154.67.61:3128 is valid, set max score
+2021-07-20 11:34:03.702 | DEBUG    | tester:run:116 - testing proxies use cursor 8669, count 20
+2021-07-20 11:34:09.703 | DEBUG    | tester:run:116 - testing proxies use cursor 3037, count 20
+2021-07-20 11:34:15.704 | DEBUG    | tester:run:116 - testing proxies use cursor 11325, count 20
+2021-07-20 11:34:21.701 | DEBUG    | tester:run:116 - testing proxies use cursor 10557, count 20
+2021-07-20 11:34:27.707 | DEBUG    | tester:run:116 - testing proxies use cursor 8381, count 20
+2021-07-20 11:34:33.700 | DEBUG    | tester:run:116 - testing proxies use cursor 1725, count 20
+2021-07-20 11:34:39.705 | DEBUG    | tester:run:116 - testing proxies use cursor 8317, count 20
+2021-07-20 11:34:45.700 | DEBUG    | tester:run:116 - testing proxies use cursor 11901, count 20
+2021-07-20 11:34:51.706 | DEBUG    | tester:run:116 - testing proxies use cursor 3965, count 20
+2021-07-20 11:34:57.704 | DEBUG    | tester:run:116 - testing proxies use cursor 9981, count 20
+2021-07-20 11:35:03.704 | DEBUG    | tester:run:116 - testing proxies use cursor 7165, count 20
+2021-07-20 11:35:09.707 | DEBUG    | tester:run:116 - testing proxies use cursor 14851, count 20
+2021-07-20 11:35:15.703 | DEBUG    | tester:run:116 - testing proxies use cursor 6915, count 20
+2021-07-20 11:35:21.703 | DEBUG    | tester:run:116 - testing proxies use cursor 13955, count 20
+2021-07-20 11:35:22.612 | INFO     | proxyRedis:max:91 - 49.75.59.242:3128 is valid, set to 5
+2021-07-20 11:35:22.615 | DEBUG    | tester:testIP:96 - proxy 49.75.59.242:3128 is valid, set max score
+2021-07-20 11:35:27.706 | DEBUG    | tester:run:116 - testing proxies use cursor 899, count 20
+2021-07-20 11:35:33.728 | DEBUG    | tester:run:116 - testing proxies use cursor 9283, count 20
+2021-07-20 11:35:39.701 | DEBUG    | tester:run:116 - testing proxies use cursor 6467, count 20
+2021-07-20 11:35:45.714 | DEBUG    | tester:run:116 - testing proxies use cursor 14147, count 20
+2021-07-20 11:35:51.707 | DEBUG    | tester:run:116 - testing proxies use cursor 4547, count 20
+2021-07-20 11:35:57.704 | DEBUG    | tester:run:116 - testing proxies use cursor 8131, count 20
+2021-07-20 11:36:03.705 | DEBUG    | tester:run:116 - testing proxies use cursor 11811, count 20
+2021-07-20 11:36:09.701 | DEBUG    | tester:run:116 - testing proxies use cursor 4899, count 20
+2021-07-20 11:36:15.706 | DEBUG    | tester:run:116 - testing proxies use cursor 3235, count 20
+2021-07-20 11:36:21.704 | DEBUG    | tester:run:116 - testing proxies use cursor 419, count 20
+2021-07-20 11:36:27.703 | DEBUG    | tester:run:116 - testing proxies use cursor 10147, count 20
+2021-07-20 11:36:33.702 | DEBUG    | tester:run:116 - testing proxies use cursor 5731, count 20
+Task exception was never retrieved
+future: <Task finished name='Task-18050' coro=<Tester.testIP() done, defined at /root/code/python1/tester.py:77> exception=ClientResponseError(RequestInfo(url=URL('https://httpbin.org/ip'), method='CONNECT', headers=<CIMultiDictProxy('Host': 'httpbin.org', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'User-Agent': 'Python/3.8 aiohttp/3.7.4.post0')>, real_url=URL('http://47.100.198.180:8080')), (), status=400, message='invalid constant string')>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 890, in start
+    message, payload = await self._protocol.read()  # type: ignore
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/streams.py", line 604, in read
+    await self._waiter
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 213, in data_received
+    messages, upgraded, tail = self._parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadHttpMessage: 400, message='invalid constant string'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/root/code/python1/tester.py", line 89, in testIP
+    async with session.get(IP_URL, proxy=f'http://{proxy}', timeout=TEST_TIMEOUT) as response:
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client.py", line 520, in _request
+    conn = await self._connector.connect(
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 535, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 890, in _create_connection
+    _, proto = await self._create_proxy_connection(req, traces, timeout)
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 1111, in _create_proxy_connection
+    resp = await proxy_resp.start(conn)
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 892, in start
+    raise ClientResponseError(
+aiohttp.client_exceptions.ClientResponseError: 400, message='invalid constant string', url=URL('http://47.100.198.180:8080')
+2021-07-20 11:36:39.706 | DEBUG    | tester:run:116 - testing proxies use cursor 867, count 20
+2021-07-20 11:36:45.704 | DEBUG    | tester:run:116 - testing proxies use cursor 1251, count 20
+2021-07-20 11:36:51.703 | DEBUG    | tester:run:116 - testing proxies use cursor 14051, count 20
+2021-07-20 11:36:57.706 | DEBUG    | tester:run:116 - testing proxies use cursor 10211, count 20
+2021-07-20 11:37:03.703 | DEBUG    | tester:run:116 - testing proxies use cursor 531, count 20
+2021-07-20 11:37:09.092 | INFO     | proxyRedis:max:91 - 80.244.226.92:8080 is valid, set to 5
+2021-07-20 11:37:09.100 | DEBUG    | tester:testIP:96 - proxy 80.244.226.92:8080 is valid, set max score
+2021-07-20 11:37:09.700 | DEBUG    | tester:run:116 - testing proxies use cursor 14611, count 20
+2021-07-20 11:37:15.705 | DEBUG    | tester:run:116 - testing proxies use cursor 14483, count 20
+2021-07-20 11:37:21.707 | DEBUG    | tester:run:116 - testing proxies use cursor 403, count 20
+2021-07-20 11:37:27.704 | DEBUG    | tester:run:116 - testing proxies use cursor 10131, count 20
+2021-07-20 11:37:33.702 | DEBUG    | tester:run:116 - testing proxies use cursor 595, count 20
+2021-07-20 11:37:39.707 | DEBUG    | tester:run:116 - testing proxies use cursor 15187, count 20
+2021-07-20 11:37:45.704 | DEBUG    | tester:run:116 - testing proxies use cursor 13011, count 20
+2021-07-20 11:37:51.704 | DEBUG    | tester:run:116 - testing proxies use cursor 13779, count 20
+2021-07-20 11:37:57.703 | DEBUG    | tester:run:116 - testing proxies use cursor 8243, count 20
+2021-07-20 11:38:03.704 | DEBUG    | tester:run:116 - testing proxies use cursor 6707, count 20
+2021-07-20 11:38:09.705 | DEBUG    | tester:run:116 - testing proxies use cursor 1843, count 20
+2021-07-20 11:38:15.709 | DEBUG    | tester:run:116 - testing proxies use cursor 11443, count 20
+2021-07-20 11:38:21.705 | DEBUG    | tester:run:116 - testing proxies use cursor 11699, count 20
+2021-07-20 11:38:27.704 | DEBUG    | tester:run:116 - testing proxies use cursor 4723, count 20
+2021-07-20 11:38:33.706 | DEBUG    | tester:run:116 - testing proxies use cursor 13683, count 20
+2021-07-20 11:38:39.704 | DEBUG    | tester:run:116 - testing proxies use cursor 10483, count 20
+2021-07-20 11:38:45.705 | DEBUG    | tester:run:116 - testing proxies use cursor 2547, count 20
+2021-07-20 11:38:51.702 | DEBUG    | tester:run:116 - testing proxies use cursor 5131, count 20
+2021-07-20 11:38:57.705 | DEBUG    | tester:run:116 - testing proxies use cursor 1291, count 20
+2021-07-20 11:39:00.550 | INFO     | proxyRedis:max:91 - 118.181.226.166:44640 is valid, set to 5
+2021-07-20 11:39:00.553 | DEBUG    | tester:testIP:96 - proxy 118.181.226.166:44640 is valid, set max score
+2021-07-20 11:39:03.702 | DEBUG    | tester:run:116 - testing proxies use cursor 12427, count 20
+2021-07-20 11:39:09.703 | DEBUG    | tester:run:116 - testing proxies use cursor 5771, count 20
+2021-07-20 11:39:15.702 | DEBUG    | tester:run:116 - testing proxies use cursor 5003, count 20
+2021-07-20 11:39:21.702 | DEBUG    | tester:run:116 - testing proxies use cursor 11339, count 20
+2021-07-20 11:39:23.432 | INFO     | proxyRedis:max:91 - 161.202.226.194:80 is valid, set to 5
+2021-07-20 11:39:23.436 | DEBUG    | tester:testIP:96 - proxy 161.202.226.194:80 is valid, set max score
+2021-07-20 11:39:27.702 | DEBUG    | tester:run:116 - testing proxies use cursor 14667, count 20
+2021-07-20 11:39:33.703 | DEBUG    | tester:run:116 - testing proxies use cursor 1867, count 20
+2021-07-20 11:39:39.703 | DEBUG    | tester:run:116 - testing proxies use cursor 715, count 20
+2021-07-20 11:39:45.707 | DEBUG    | tester:run:116 - testing proxies use cursor 9675, count 20
+2021-07-20 11:39:51.703 | DEBUG    | tester:run:116 - testing proxies use cursor 2091, count 20
+2021-07-20 11:39:57.703 | DEBUG    | tester:run:116 - testing proxies use cursor 3627, count 20
+2021-07-20 11:40:03.703 | DEBUG    | tester:run:116 - testing proxies use cursor 14123, count 20
+2021-07-20 11:40:09.414 | INFO     | proxyRedis:max:91 - 203.202.245.102:3137 is valid, set to 5
+2021-07-20 11:40:09.417 | DEBUG    | tester:testIP:96 - proxy 203.202.245.102:3137 is valid, set max score
+2021-07-20 11:40:09.701 | DEBUG    | tester:run:116 - testing proxies use cursor 15019, count 20
+2021-07-20 11:40:11.705 | INFO     | proxyRedis:max:91 - 159.8.114.37:8123 is valid, set to 5
+2021-07-20 11:40:11.709 | DEBUG    | tester:testIP:96 - proxy 159.8.114.37:8123 is valid, set max score
+2021-07-20 11:40:15.703 | DEBUG    | tester:run:116 - testing proxies use cursor 3499, count 20
+2021-07-20 11:40:21.704 | DEBUG    | tester:run:116 - testing proxies use cursor 12203, count 20
+2021-07-20 11:40:27.702 | DEBUG    | tester:run:116 - testing proxies use cursor 1643, count 20
+2021-07-20 11:40:33.709 | DEBUG    | tester:run:116 - testing proxies use cursor 3435, count 20
+2021-07-20 11:40:39.702 | DEBUG    | tester:run:116 - testing proxies use cursor 1259, count 20
+2021-07-20 11:40:45.702 | DEBUG    | tester:run:116 - testing proxies use cursor 14827, count 20
+2021-07-20 11:40:51.701 | DEBUG    | tester:run:116 - testing proxies use cursor 12315, count 20
+2021-07-20 11:40:57.705 | DEBUG    | tester:run:116 - testing proxies use cursor 5659, count 20
+2021-07-20 11:41:03.708 | DEBUG    | tester:run:116 - testing proxies use cursor 8347, count 20
+2021-07-20 11:41:09.702 | DEBUG    | tester:run:116 - testing proxies use cursor 7835, count 20
+2021-07-20 11:41:15.706 | DEBUG    | tester:run:116 - testing proxies use cursor 6043, count 20
+2021-07-20 11:41:21.704 | DEBUG    | tester:run:116 - testing proxies use cursor 14939, count 20
+2021-07-20 11:41:27.704 | DEBUG    | tester:run:116 - testing proxies use cursor 14555, count 20
+2021-07-20 11:41:33.704 | DEBUG    | tester:run:116 - testing proxies use cursor 16091, count 20
+2021-07-20 11:41:39.702 | DEBUG    | tester:run:116 - testing proxies use cursor 16347, count 20
+2021-07-20 11:41:45.700 | DEBUG    | tester:run:116 - testing proxies use cursor 12603, count 20
+2021-07-20 11:41:51.705 | DEBUG    | tester:run:116 - testing proxies use cursor 8379, count 20
+2021-07-20 11:41:57.707 | DEBUG    | tester:run:116 - testing proxies use cursor 6843, count 20
+2021-07-20 11:42:03.703 | DEBUG    | tester:run:116 - testing proxies use cursor 7099, count 20
+2021-07-20 11:42:06.880 | INFO     | proxyRedis:max:91 - 59.55.164.115:3256 is valid, set to 5
+2021-07-20 11:42:06.883 | DEBUG    | tester:testIP:96 - proxy 59.55.164.115:3256 is valid, set max score
+2021-07-20 11:42:09.702 | DEBUG    | tester:run:116 - testing proxies use cursor 4731, count 20
+2021-07-20 11:42:15.703 | DEBUG    | tester:run:116 - testing proxies use cursor 1403, count 20
+2021-07-20 11:42:21.707 | DEBUG    | tester:run:116 - testing proxies use cursor 1275, count 20
+2021-07-20 11:42:27.700 | DEBUG    | tester:run:116 - testing proxies use cursor 14075, count 20
+2021-07-20 11:42:33.701 | DEBUG    | tester:run:116 - testing proxies use cursor 15355, count 20
+2021-07-20 11:42:39.704 | DEBUG    | tester:run:116 - testing proxies use cursor 8711, count 20
+2021-07-20 11:42:45.705 | DEBUG    | tester:run:116 - testing proxies use cursor 9479, count 20
+2021-07-20 11:42:51.701 | DEBUG    | tester:run:116 - testing proxies use cursor 16135, count 20
+2021-07-20 11:42:57.706 | DEBUG    | tester:run:116 - testing proxies use cursor 7815, count 20
+2021-07-20 11:43:03.707 | DEBUG    | tester:run:116 - testing proxies use cursor 2951, count 20
+2021-07-20 11:43:09.704 | DEBUG    | tester:run:116 - testing proxies use cursor 8775, count 20
+2021-07-20 11:43:15.706 | DEBUG    | tester:run:116 - testing proxies use cursor 13639, count 20
+2021-07-20 11:43:21.701 | DEBUG    | tester:run:116 - testing proxies use cursor 14535, count 20
+2021-07-20 11:43:27.707 | DEBUG    | tester:run:116 - testing proxies use cursor 2503, count 20
+2021-07-20 11:43:33.706 | DEBUG    | tester:run:116 - testing proxies use cursor 14279, count 20
+2021-07-20 11:43:39.705 | DEBUG    | tester:run:116 - testing proxies use cursor 2599, count 20
+2021-07-20 11:43:45.706 | DEBUG    | tester:run:116 - testing proxies use cursor 1831, count 20
+2021-07-20 11:43:47.129 | INFO     | proxyRedis:max:91 - 159.8.114.37:80 is valid, set to 5
+2021-07-20 11:43:47.132 | DEBUG    | tester:testIP:96 - proxy 159.8.114.37:80 is valid, set max score
+2021-07-20 11:43:51.708 | DEBUG    | tester:run:116 - testing proxies use cursor 7335, count 20
+2021-07-20 11:43:54.451 | INFO     | proxyRedis:max:91 - 41.223.119.156:3128 is valid, set to 5
+2021-07-20 11:43:54.456 | DEBUG    | tester:testIP:96 - proxy 41.223.119.156:3128 is valid, set max score
+2021-07-20 11:43:57.701 | DEBUG    | tester:run:116 - testing proxies use cursor 14759, count 20
+2021-07-20 11:44:03.700 | DEBUG    | tester:run:116 - testing proxies use cursor 14247, count 20
+2021-07-20 11:44:09.707 | DEBUG    | tester:run:116 - testing proxies use cursor 2663, count 20
+2021-07-20 11:44:15.702 | DEBUG    | tester:run:116 - testing proxies use cursor 11623, count 20
+2021-07-20 11:44:21.704 | DEBUG    | tester:run:116 - testing proxies use cursor 6375, count 20
+2021-07-20 11:44:27.512 | INFO     | proxyRedis:max:91 - 176.62.188.158:56351 is valid, set to 5
+2021-07-20 11:44:27.515 | DEBUG    | tester:testIP:96 - proxy 176.62.188.158:56351 is valid, set max score
+2021-07-20 11:44:27.700 | DEBUG    | tester:run:116 - testing proxies use cursor 2535, count 20
+2021-07-20 11:44:33.704 | DEBUG    | tester:run:116 - testing proxies use cursor 12311, count 20
+2021-07-20 11:44:39.704 | DEBUG    | tester:run:116 - testing proxies use cursor 279, count 20
+2021-07-20 11:44:45.703 | DEBUG    | tester:run:116 - testing proxies use cursor 2839, count 20
+2021-07-20 11:44:51.705 | DEBUG    | tester:run:116 - testing proxies use cursor 5271, count 20
+2021-07-20 11:44:57.706 | DEBUG    | tester:run:116 - testing proxies use cursor 12695, count 20
+2021-07-20 11:45:03.708 | DEBUG    | tester:run:116 - testing proxies use cursor 14423, count 20
+2021-07-20 11:45:09.706 | DEBUG    | tester:run:116 - testing proxies use cursor 11863, count 20
+2021-07-20 11:45:15.703 | DEBUG    | tester:run:116 - testing proxies use cursor 8023, count 20
+2021-07-20 11:45:21.706 | DEBUG    | tester:run:116 - testing proxies use cursor 16087, count 20
+2021-07-20 11:45:27.701 | DEBUG    | tester:run:116 - testing proxies use cursor 16343, count 20
+2021-07-20 11:45:33.702 | DEBUG    | tester:run:116 - testing proxies use cursor 11319, count 20
+2021-07-20 11:45:39.707 | DEBUG    | tester:run:116 - testing proxies use cursor 2359, count 20
+2021-07-20 11:45:45.702 | DEBUG    | tester:run:116 - testing proxies use cursor 14519, count 20
+2021-07-20 11:45:51.701 | DEBUG    | tester:run:116 - testing proxies use cursor 14775, count 20
+2021-07-20 11:45:57.706 | DEBUG    | tester:run:116 - testing proxies use cursor 6071, count 20
+2021-07-20 11:46:03.706 | DEBUG    | tester:run:116 - testing proxies use cursor 4727, count 20
+2021-07-20 11:46:09.706 | DEBUG    | tester:run:116 - testing proxies use cursor 5495, count 20
+2021-07-20 11:46:15.707 | DEBUG    | tester:run:116 - testing proxies use cursor 11511, count 20
+2021-07-20 11:46:21.702 | DEBUG    | tester:run:116 - testing proxies use cursor 2551, count 20
+2021-07-20 11:46:27.703 | DEBUG    | tester:run:116 - testing proxies use cursor 11255, count 20
+2021-07-20 11:46:30.121 | INFO     | proxyRedis:max:91 - 51.222.21.94:32768 is valid, set to 5
+2021-07-20 11:46:30.124 | DEBUG    | tester:testIP:96 - proxy 51.222.21.94:32768 is valid, set max score
+2021-07-20 11:46:33.705 | DEBUG    | tester:run:116 - testing proxies use cursor 10767, count 20
+2021-07-20 11:46:35.031 | INFO     | proxyRedis:max:91 - 106.45.105.114:3256 is valid, set to 5
+2021-07-20 11:46:35.035 | DEBUG    | tester:testIP:96 - proxy 106.45.105.114:3256 is valid, set max score
+2021-07-20 11:46:39.704 | DEBUG    | tester:run:116 - testing proxies use cursor 13583, count 20
+2021-07-20 11:46:45.705 | DEBUG    | tester:run:116 - testing proxies use cursor 13455, count 20
+2021-07-20 11:46:51.707 | DEBUG    | tester:run:116 - testing proxies use cursor 4495, count 20
+2021-07-20 11:46:57.703 | DEBUG    | tester:run:116 - testing proxies use cursor 16271, count 20
+2021-07-20 11:47:03.704 | DEBUG    | tester:run:116 - testing proxies use cursor 13903, count 20
+2021-07-20 11:47:09.702 | DEBUG    | tester:run:116 - testing proxies use cursor 6991, count 20
+2021-07-20 11:47:15.705 | DEBUG    | tester:run:116 - testing proxies use cursor 4815, count 20
+2021-07-20 11:47:21.704 | DEBUG    | tester:run:116 - testing proxies use cursor 975, count 20
+Task exception was never retrieved
+future: <Task finished name='Task-24456' coro=<Tester.testIP() done, defined at /root/code/python1/tester.py:77> exception=ClientResponseError(RequestInfo(url=URL('https://httpbin.org/ip'), method='CONNECT', headers=<CIMultiDictProxy('Host': 'httpbin.org', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'User-Agent': 'Python/3.8 aiohttp/3.7.4.post0')>, real_url=URL('http://60.205.132.71:80')), (), status=400, message='invalid constant string')>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 890, in start
+    message, payload = await self._protocol.read()  # type: ignore
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/streams.py", line 604, in read
+    await self._waiter
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 213, in data_received
+    messages, upgraded, tail = self._parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 546, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadHttpMessage: 400, message='invalid constant string'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/root/code/python1/tester.py", line 89, in testIP
+    async with session.get(IP_URL, proxy=f'http://{proxy}', timeout=TEST_TIMEOUT) as response:
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client.py", line 520, in _request
+    conn = await self._connector.connect(
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 535, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 890, in _create_connection
+    _, proto = await self._create_proxy_connection(req, traces, timeout)
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 1111, in _create_proxy_connection
+    resp = await proxy_resp.start(conn)
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 892, in start
+    raise ClientResponseError(
+aiohttp.client_exceptions.ClientResponseError: 400, message='invalid constant string', url=URL('http://60.205.132.71:80')
+2021-07-20 11:47:27.705 | DEBUG    | tester:run:116 - testing proxies use cursor 4655, count 20
+2021-07-20 11:47:33.706 | DEBUG    | tester:run:116 - testing proxies use cursor 15151, count 20
+2021-07-20 11:47:39.703 | DEBUG    | tester:run:116 - testing proxies use cursor 5295, count 20
+2021-07-20 11:47:45.707 | DEBUG    | tester:run:116 - testing proxies use cursor 431, count 20
+2021-07-20 11:47:51.704 | DEBUG    | tester:run:116 - testing proxies use cursor 8303, count 20
+2021-07-20 11:47:57.705 | DEBUG    | tester:run:116 - testing proxies use cursor 6767, count 20
+2021-07-20 11:48:00.579 | INFO     | proxyRedis:max:91 - 200.24.157.120:999 is valid, set to 5
+2021-07-20 11:48:00.583 | DEBUG    | tester:testIP:96 - proxy 200.24.157.120:999 is valid, set max score
+2021-07-20 11:48:03.703 | DEBUG    | tester:run:116 - testing proxies use cursor 4975, count 20
+2021-07-20 11:48:09.707 | DEBUG    | tester:run:116 - testing proxies use cursor 751, count 20
+2021-07-20 11:48:15.703 | DEBUG    | tester:run:116 - testing proxies use cursor 9711, count 20
+2021-07-20 11:48:21.703 | DEBUG    | tester:run:116 - testing proxies use cursor 31, count 20
+2021-07-20 11:48:27.705 | DEBUG    | tester:run:116 - testing proxies use cursor 2335, count 20
+2021-07-20 11:48:33.703 | DEBUG    | tester:run:116 - testing proxies use cursor 16159, count 20
+2021-07-20 11:48:39.707 | DEBUG    | tester:run:116 - testing proxies use cursor 3743, count 20
+2021-07-20 11:48:45.700 | DEBUG    | tester:run:116 - testing proxies use cursor 5023, count 20
+2021-07-20 11:48:51.704 | DEBUG    | tester:run:116 - testing proxies use cursor 13407, count 20
+2021-07-20 11:48:57.704 | DEBUG    | tester:run:116 - testing proxies use cursor 8543, count 20
+2021-07-20 11:49:03.702 | DEBUG    | tester:run:116 - testing proxies use cursor 15199, count 20
+2021-07-20 11:49:09.702 | DEBUG    | tester:run:116 - testing proxies use cursor 2783, count 20
+2021-07-20 11:49:15.706 | DEBUG    | tester:run:116 - testing proxies use cursor 14815, count 20
+2021-07-20 11:49:21.705 | DEBUG    | tester:run:116 - testing proxies use cursor 2111, count 20
+2021-07-20 11:49:27.704 | DEBUG    | tester:run:116 - testing proxies use cursor 8511, count 20
+2021-07-20 11:49:33.703 | DEBUG    | tester:run:116 - testing proxies use cursor 16191, count 20
+2021-07-20 11:49:39.707 | DEBUG    | tester:run:116 - testing proxies use cursor 5823, count 20
+2021-07-20 11:49:45.706 | DEBUG    | tester:run:116 - testing proxies use cursor 10175, count 20
+2021-07-20 11:49:51.702 | DEBUG    | tester:run:116 - testing proxies use cursor 3199, count 20
+2021-07-20 11:49:57.705 | DEBUG    | tester:run:116 - testing proxies use cursor 3455, count 20
+2021-07-20 11:50:03.702 | DEBUG    | tester:run:116 - testing proxies use cursor 10495, count 20
+2021-07-20 11:50:09.702 | DEBUG    | tester:run:116 - testing proxies use cursor 16127, count 20
+2021-07-20 11:50:15.703 | DEBUG    | tester:run:116 - testing proxies use cursor 10239, count 20
+2021-07-20 11:50:21.697 | INFO     | __main__:<module>:80 - 全部结束

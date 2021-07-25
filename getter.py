@@ -30,6 +30,7 @@ class Getter(object):
         :return:
         """
         if self.is_full():
+            logger.info('数据库中ip数量到达最大值，不爬取IP')
             return
         for crawler in self.crawlers:
             logger.info(f'crawler {crawler} to get proxy')

@@ -10,7 +10,7 @@ import requests
 # definition of tester
 TEST_URL = 'http://www.baidu.com'
 IP_URL = 'https://httpbin.org/ip'
-TEST_TIMEOUT = 10
+TEST_TIMEOUT = 5
 TEST_BATCH =  20
 # only save anonymous proxy
 TEST_ANONYMOUS = True
@@ -44,8 +44,8 @@ class Tester(object):
         self.redis = RedisClient()
         self.loop = asyncio.get_event_loop()
         self.origin_ip = requests.get(IP_URL).json()['origin']
-        print("aaaaaa",self.origin_ip)
-    async def test(self, proxy):
+       
+    async def testBD(self, proxy):
         """
         test single proxy
         :param proxy: Proxy object
@@ -53,7 +53,7 @@ class Tester(object):
         """
         async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=False)) as session:
             try:
-                logger.debug(f'testing {proxy}')
+                #logger.debug(f'testing {proxy}')
                 # if TEST_ANONYMOUS is True, make sure that
                 # the proxy has the effect of hiding the real IP
                 if TEST_ANONYMOUS:                    
@@ -71,9 +71,35 @@ class Tester(object):
                         self.redis.decrease(proxy)
                         logger.debug(f'proxy {proxy} is invalid, decrease score')
             except EXCEPTIONS as e:
-                self.redis.decrease(proxy)
-                print(e)
-                logger.debug(f'proxy {proxy} is invalid in exceptions, decrease score')
+                self.redis.decrease(proxy)                
+                #logger.debug(f'proxy {proxy} is invalid in exceptions, decrease score')
+
+    async def testIP(self, proxy):
+        """
+        test single proxy
+        :param proxy: Proxy object
+        :return:
+        """
+        async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=False)) as session:
+            try:
+                #logger.debug(f'testing {proxy}')
+                # if TEST_ANONYMOUS is True, make sure that
+                # the proxy has the effect of hiding the real IP
+                if TEST_ANONYMOUS:                    
+                    async with session.get(IP_URL, proxy=f'http://{proxy}', timeout=TEST_TIMEOUT) as response:
+                        if response.status in TEST_VALID_STATUS:
+                            resp_json = await response.json()
+                            anonymous_ip = resp_json['origin']
+                            assert self.origin_ip != anonymous_ip
+                            assert proxy.split(':')[0] == anonymous_ip
+                            self.redis.max(proxy)
+                            logger.debug(f'proxy {proxy} is valid, set max score')    
+                        else:
+                            self.redis.decrease(proxy)
+                            logger.debug(f'proxy {proxy} is invalid, decrease score')
+            except EXCEPTIONS as e:
+                self.redis.decrease(proxy)                
+                #logger.debug(f'proxy {proxy} is invalid in exceptions, decrease score')
     
     @logger.catch
     def run(self):
@@ -90,7 +116,7 @@ class Tester(object):
             logger.debug(f'testing proxies use cursor {cursor}, count {TEST_BATCH}')
             cursor, proxies = self.redis.batch(cursor, count=TEST_BATCH)
             if proxies:
-                tasks = [self.test(proxy) for proxy,_ in proxies]
+                tasks = [self.testIP(proxy) for proxy,_ in proxies]
                 self.loop.run_until_complete(asyncio.wait(tasks))
             if not cursor:
                 break
